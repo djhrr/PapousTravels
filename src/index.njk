@@ -6,21 +6,20 @@ permalink: /
 
 <section class="main-col">
   <div class="features">
-    <article class="card">
-      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
-      <div class="body">
-        <h3>Building the future</h3>
-        <p>Annual TVTLC-COE Labor Management Conference showcases commitment to safety and partnership. (placeholder)</p>
-      </div>
-    </article>
-
-    <article class="card">
-      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
-      <div class="body">
-        <h3>AEDs help you act fast in an emergency</h3>
-        <p>Quick guide to locate AEDs on site and how to use them. (placeholder)</p>
-      </div>
-    </article>
+    {% for post in collections.blog | limit(2) %}
+      {% set img = post.content | firstImage %}
+      <article class="card">
+        <a href="{{ post.url }}">
+          <div class="thumb" style="background-image:url('{{ img if img else "/assets/New-Papou-Logo.png" }}');background-size:cover;background-position:center"></div>
+        </a>
+        <div class="body">
+          <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p class="post-date">{{ post.data.date | readableDate }}</p>
+          <p>{{ post.content | firstParagraph }}</p>
+          <a href="{{ post.url }}" class="read-more">Read more →</a>
+        </div>
+      </article>
+    {% endfor %}
   </div>
 
   <div class="article-list" style="margin-top:26px">
