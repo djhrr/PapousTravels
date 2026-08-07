@@ -122,6 +122,7 @@ permalink: /admin/
       </div>
       <div class="field"><label>Title</label><input type="text" id="new-title" placeholder="Enter post title..."></div>
       <div class="field"><label>Date</label><input type="date" id="new-date"></div>
+      <div class="field"><label>Time <span style="font-weight:400;color:#888;font-size:.8rem">(optional — for ordering same-day posts)</span></label><input type="time" id="new-time"></div>
       <div class="field"><label>Author</label><input type="text" id="new-author" placeholder="Papou"></div>
       <label>Content</label>
       <div id="new-blocks" style="margin-top:8px"></div>
@@ -142,6 +143,7 @@ permalink: /admin/
       </div>
       <div class="field"><label>Title</label><input type="text" id="edit-title"></div>
       <div class="field"><label>Date</label><input type="date" id="edit-date"></div>
+      <div class="field"><label>Time <span style="font-weight:400;color:#888;font-size:.8rem">(optional)</span></label><input type="time" id="edit-time"></div>
       <div class="field"><label>Author</label><input type="text" id="edit-author"></div>
       <div class="field">
         <label>Content <span style="font-weight:400;color:#888;font-size:.8rem">(full markdown)</span></label>
@@ -253,7 +255,7 @@ async function loadEdit(path){
       var fm=fmMatch[1],body=fmMatch[2];
       document.getElementById('edit-title').value=((fm.match(/title:\s*"?(.*?)"?\s*$/m)||[])[1]||'').replace(/\\"/g,'"');
       document.getElementById('edit-date').value=(fm.match(/date:\s*(\S+)/m)||[])[1]||'';
-      document.getElementById('edit-author').value=(fm.match(/author:\s*(\S+)/m)||[])[1]||'';
+      document.getElementById('edit-author').value=(fm.match(/author:\s*(\S+)/m)||[])[1]||'';document.getElementById('edit-time').value=(fm.match(/time:\s*(\S+)/m)||[])[1]||'';
       document.getElementById('edit-body').value=body.trim();
     }else{
       document.getElementById('edit-body').value=raw;
@@ -368,7 +370,7 @@ async function publishNew(){
     }
     var slug=date+'-'+slugify(title);
     var md='---\ntitle: "'+title.replace(/"/g,'\\"')+'"\ndate: '+date+'\n';
-    if(author)md+='author: '+author+'\n';
+    if(author)md+='author: '+author+'\n';var newTime=document.getElementById('new-time').value.trim();if(newTime)md+='time: '+newTime+'\n';
     md+='layout: post\n---\n\n'+lines.join('\n');
     await ghPut('src/blog/'+slug+'.md',strToB64(md),'New post: '+title,null);
     document.getElementById('success-msg').textContent='"'+title+'" has been published.';
@@ -385,3 +387,4 @@ async function publishNew(){
 </script>
 </body>
 </html>
+

@@ -8,7 +8,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("blog", function(collectionApi) {
     return collectionApi
       .getFilteredByGlob("src/blog/*.md")
-      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+      .sort((a, b) => {
+        const aStr = a.data.date + (a.data.time ? 'T' + a.data.time : 'T00:00');
+        const bStr = b.data.date + (b.data.time ? 'T' + b.data.time : 'T00:00');
+        return new Date(bStr) - new Date(aStr);
+      });
   });
   
   // Add useful filters

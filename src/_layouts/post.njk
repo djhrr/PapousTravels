@@ -8,7 +8,7 @@ layout: base
       <h1>{{ title }}</h1>
       <div class="post-meta">
         <span class="author">By {{ author or "Papou" }}</span>
-        <span class="date">{{ date | readableDate }}</span>
+        <span class="date">{{ date | readableDate }}{% if time %} at {{ time }}{% endif %}</span>
       </div>
     </header>
     
