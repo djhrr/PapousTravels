@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Node.js / Eleventy
+node_modules/
+_site/
+.cache/
+*.log
+npm-debug.log*
+
 # C extensions
 *.so
 

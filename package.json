@@ -1,0 +1,14 @@
+{
+  "name": "papoustravels",
+  "version": "1.0.0",
+  "description": "Papou's Travels - A travel blog built with Eleventy",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "xml2js": "^0.6.2"
+  }
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ title or "Papou's Travels" }} — Papou's Travels</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+  
+  <!-- Green stripe at very top -->
+  <div class="site-banner" aria-hidden="true"></div>
+
+  <!-- Large white header with logo centered between green and blue -->
+  <header class="header-white" role="banner">
+    <div class="header-inner">
+      <img src="/assets/New-Papou-Logo.png" alt="Papou's Travels logo" class="logo">
+      <h1 class="site-title">Papou's Travels</h1>
+    </div>
+  </header>
+
+  <!-- Dark blue navigation under the white header -->
+  <nav class="site-nav" role="navigation">
+    <div class="nav-inner">
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="#">Trips</a>
+      <a href="#">Gallery</a>
+      <a href="#">Contact</a>
+    </div>
+  </nav>
+
+  <div class="mission">
+    <div class="inner">On a mission to make life better — travel stories, gear, and routes shared from the road.</div>
+  </div>
+
+  <main class="container" role="main">
+    {{ content | safe }}
+  </main>
+
+  <div class="footer-spacer"></div>
+
+</body>
+</html>

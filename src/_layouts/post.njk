@@ -1,0 +1,45 @@
+---
+layout: base
+---
+
+<section class="main-col post-page">
+  <article class="post">
+    <header class="post-header">
+      <h1>{{ title }}</h1>
+      <div class="post-meta">
+        <span class="author">By {{ author or "Papou" }}</span>
+        <span class="date">{{ date | readableDate }}</span>
+      </div>
+    </header>
+    
+    <div class="post-content">
+      {{ content | safe }}
+    </div>
+    
+    <footer class="post-footer">
+      <nav class="post-nav">
+        {% if previousPost %}
+          <a href="{{ previousPost.url }}" class="prev-post">← Previous Post</a>
+        {% endif %}
+        {% if nextPost %}
+          <a href="{{ nextPost.url }}" class="next-post">Next Post →</a>
+        {% endif %}
+      </nav>
+      <a href="/blog/" class="back-to-blog">← Back to all posts</a>
+    </footer>
+  </article>
+</section>
+
+<aside class="sidebar">
+  <div class="recent-posts">
+    <h4>Recent Posts</h4>
+    <ul>
+      {% for post in collections.blog | slice(0, 5) %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          <span class="post-date">{{ post.data.date | readableDate }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</aside>

@@ -1,0 +1,60 @@
+---
+layout: base
+title: Home
+permalink: /index.html
+---
+
+<section class="main-col">
+  <div class="features">
+    <article class="card">
+      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
+      <div class="body">
+        <h3>Travel Stories & Adventures</h3>
+        <p>Follow along on motorcycle journeys, moto camping expeditions, and visits to power generation facilities across the Southeast.</p>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
+      <div class="body">
+        <h3>Gear Reviews & Tips</h3>
+        <p>Practical advice and reviews for motorcycle riders, campers, and travelers looking to make the most of their adventures.</p>
+      </div>
+    </article>
+  </div>
+
+  <div class="article-list" style="margin-top:26px">
+    <h3>Latest Posts</h3>
+    {% for post in collections.blog | slice(0, 5) %}
+      <div class="article-item">
+        <div class="meta">
+          <a href="{{ post.url }}">
+            <img src="/assets/New-Papou-Logo.png" alt="" style="width:100px;height:auto;border-radius:6px">
+          </a>
+        </div>
+        <div>
+          <h4><a href="{{ post.url }}">{{ post.data.title }}</a></h4>
+          <p class="post-date">{{ post.data.date | readableDate }}</p>
+          <p>{{ post.content | striptags | slice(0, 150) }}...</p>
+          <a href="{{ post.url }}" class="read-more">Read more →</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<aside class="sidebar">
+  <div class="survey">
+    <h4>Explore the Blog</h4>
+    <p>Discover travel stories, adventure planning tips, and gear recommendations from the road.</p>
+    <p style="margin-top:12px"><a class="button" href="/blog/">View all posts →</a></p>
+  </div>
+
+  <div class="events">
+    <h5 style="margin-top:18px">Featured Topics:</h5>
+    <div class="event">Motorcycle Camping Adventures</div>
+    <div class="event">Power Generation Facility Tours</div>
+    <div class="event">Travel Tips & Gear</div>
+  </div>
+
+</aside>

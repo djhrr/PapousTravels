@@ -1,0 +1,137 @@
+---
+title: "Work Sites Trip 6 (Blue Ridge Dam)"
+date: 2025-07-08
+author: mrogers
+published: 2025-07-08T15:35:00.000Z
+updated: 2025-07-09T01:08:56.830Z
+layout: post
+---
+
+<p class="MsoNormal" style="text-align: center;">I am finding it difficult putting this week’s site visit in
+the proper words. But I will try, I just feel bad that there is no way I can
+express the emotions in the following words fully. <o:p></o:p>
+
+<p class="MsoNormal" style="text-align: center;">Blue Ridge Dam, while it is a TVA site and I did indeed
+visit it, and it truly is amazing in its own right, is the first site that was
+not a planned work site destination trip. It was, as Bob Ross would call it a “Happy
+Little accident” that put a bookmark on the weekend. <o:p></o:p>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_AvM6QMOtdDPVcjLYNu79jeqlsWH5DU2RjwninxA2r6n7zUh1Mtp24A5oqREt9Va5QhfOLjOzWxqeXfOy3D1pnNsn6GFQl0jYmKXLhSvRqQ2jY52dY5RARl0vNAnKp3jvo33ksXMRjihhudrdB7WzhTmfBaoXt2ZQ-xU5plHOfAJMXHsGs__o2KT9_0I/s934/Happy%20Little%20accident.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="934" data-original-width="623" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_AvM6QMOtdDPVcjLYNu79jeqlsWH5DU2RjwninxA2r6n7zUh1Mtp24A5oqREt9Va5QhfOLjOzWxqeXfOy3D1pnNsn6GFQl0jYmKXLhSvRqQ2jY52dY5RARl0vNAnKp3jvo33ksXMRjihhudrdB7WzhTmfBaoXt2ZQ-xU5plHOfAJMXHsGs__o2KT9_0I/w426-h640/Happy%20Little%20accident.JPG" width="426" /></a>
+<p class="MsoNormal" style="text-align: center;">
+
+<p class="MsoNormal" style="text-align: center;">I feel I should back up a few days. The day was Monday June
+30<sup>th. </sup>For reasons, I decided to take a trip over the upcoming weekend to see a bunch of work sites. Over the next few days the plan was put in place. The sites chosen
+and rooms reserved. I was ready. And then I talked about it. People wanted to
+ride with, get updates, give advice. Rooms were switched, change fees applied, sites
+cut and plans changed. Until finally I threw my hands up and called off the
+ride. I was frustrated. <o:p></o:p>
+
+<p class="MsoNormal" style="text-align: center;">Thursday July 3<sup>rd</sup> I called one of, if not the
+closest friend I have and said, “want to ride north Georgia mountains Saturday
+and Sunday?” It was a “Yes” before I could even finish! So the hotel was booked
+and plans were quickly thrown together. (Admittedly, a-lot of our rides were
+put together while actually on the road and it shows.) But more on that later,
+I haven’t even left the house yet! Let’s talk July 4<sup>th</sup>!!! <o:p></o:p>
+
+<p class="MsoNormal" style="text-align: center;">The older boy and his squeeze came over to enjoy the..
+Backup. They came over to force me to enjoy the holiday. My amazing neighbors
+threw a killer 4<sup>th</sup> party. Corn-hole tournament, Water slide, food,
+fireworks, s’mores, kickball... the works. It was a very good time. I enjoyed
+myself greatly. <span style="mso-spacerun: yes;"> </span>I needed to.<o:p></o:p>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixM3SuJMQ16FR1kLdMvecnhkaMBqO17IyUF4JB7EOWmhhTO6MCDv0xbUZkCt9iHXBSUeNRFFDP_whvSILsdyMED8LnDhPaOVGdfZXYJsk8X5B9FzfNuVaM8BGR0aPCJCxtqKjGtLJxhByipE5ERHhhZRsMNJap7eUDjMl3CZiGS8qe7-8JfvCNoKvL6w/s960/515927279_3959973067577342_3708303245742192937_n.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixM3SuJMQ16FR1kLdMvecnhkaMBqO17IyUF4JB7EOWmhhTO6MCDv0xbUZkCt9iHXBSUeNRFFDP_whvSILsdyMED8LnDhPaOVGdfZXYJsk8X5B9FzfNuVaM8BGR0aPCJCxtqKjGtLJxhByipE5ERHhhZRsMNJap7eUDjMl3CZiGS8qe7-8JfvCNoKvL6w/s320/515927279_3959973067577342_3708303245742192937_n.jpg" width="240" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglpCYTIz0wGdbcrwJT6pQ9ZPR-JpMQGIWBugxj7wp21cLn7UjkyyU2OAopR1RhlMDh49fZzMlZj8oPgN9ZtAkeA8URVlfk6csO2Js2mwjY-RJD-uEn91YPmsHh_xqQkQVTnLZCm5Ys2Xp7oYQXl55kHffRj77mUJzyoa4gJWWv6BZ6XUXWuFgkYDesg9U/s2048/4th2025%20(14).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglpCYTIz0wGdbcrwJT6pQ9ZPR-JpMQGIWBugxj7wp21cLn7UjkyyU2OAopR1RhlMDh49fZzMlZj8oPgN9ZtAkeA8URVlfk6csO2Js2mwjY-RJD-uEn91YPmsHh_xqQkQVTnLZCm5Ys2Xp7oYQXl55kHffRj77mUJzyoa4gJWWv6BZ6XUXWuFgkYDesg9U/s320/4th2025%20(14).JPEG" width="240" /></a>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamgC6oeGw8lvrZDjF95EPmwBGd4aAH7G75k3Itr_6DOVoQ_0oW2NUrDTNQyHm82KR231VhulhDd_48pMffwJ90k2INIJJBQCKVRMmy-KHtQM711Ky0cEc9sHSjySeYkKrrANRay-eu_eRMCRti58xUZGsC4S8fw7kSu3Eu3dfJv-PrznJfVsSeVo-Cq4/s2048/516877844_1273116204160517_5537530139896916153_n.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamgC6oeGw8lvrZDjF95EPmwBGd4aAH7G75k3Itr_6DOVoQ_0oW2NUrDTNQyHm82KR231VhulhDd_48pMffwJ90k2INIJJBQCKVRMmy-KHtQM711Ky0cEc9sHSjySeYkKrrANRay-eu_eRMCRti58xUZGsC4S8fw7kSu3Eu3dfJv-PrznJfVsSeVo-Cq4/s320/516877844_1273116204160517_5537530139896916153_n.jpg" width="240" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia4byu8UcZ-CpDkSWPSueUKLH-NIqYUupN1OyN4tV1amhplxf8pMJBajPScrrmptgQHJWhpGVkSeTNELp9d7VIwEL4MQsOcU4sh-9Vb_UOeggWkGhdB9eeBwyBlARcs5ixwBfyug_J-FlboRqRGCWhfICxc2ETn138MFDMFOQSdQLWR_fksJv0inNW07s/s960/516984110_3959973470910635_46685749925979581_n.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia4byu8UcZ-CpDkSWPSueUKLH-NIqYUupN1OyN4tV1amhplxf8pMJBajPScrrmptgQHJWhpGVkSeTNELp9d7VIwEL4MQsOcU4sh-9Vb_UOeggWkGhdB9eeBwyBlARcs5ixwBfyug_J-FlboRqRGCWhfICxc2ETn138MFDMFOQSdQLWR_fksJv0inNW07s/s320/516984110_3959973470910635_46685749925979581_n.jpg" width="240" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif1t4QiFOQPijHI-uLzP50M838eHZDTF20zAexU8IFtZSjSbwp7kp2hXlrjzHACK4OXL8LyiWyvbG2JCnh_keQ4O1NoROYiKqjHpOeLf9yUMznGmp2fFnrwM73Y_ea_Haj4CuUx1E0xdEaSMWvsfqQvu878TR1XFDCPF5_FVa3wv-wXgnz3H2SMhPoolc/s2048/4th2025%20(7).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif1t4QiFOQPijHI-uLzP50M838eHZDTF20zAexU8IFtZSjSbwp7kp2hXlrjzHACK4OXL8LyiWyvbG2JCnh_keQ4O1NoROYiKqjHpOeLf9yUMznGmp2fFnrwM73Y_ea_Haj4CuUx1E0xdEaSMWvsfqQvu878TR1XFDCPF5_FVa3wv-wXgnz3H2SMhPoolc/s320/4th2025%20(7).JPEG" width="240" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1PorZE0ewgCN7iJGCF3HWwiQmjZXMDzIldPbbdyN5sIENAs37zlat25MaL0MWUSQOUEKscpe6noHSojY7LKrl9nJbF_QbxmKTP41hh3-prNfCcQm-2sOpkbDuJDiWo0DI-Mb6rkP_Z-t7V2CNhr-cHHlaJ3Y9E5X98yOKaPjp3it3Td55Q-OmjaRckA/s1536/0F52C569-AC35-4492-BF19-2AFF5718ADA1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1PorZE0ewgCN7iJGCF3HWwiQmjZXMDzIldPbbdyN5sIENAs37zlat25MaL0MWUSQOUEKscpe6noHSojY7LKrl9nJbF_QbxmKTP41hh3-prNfCcQm-2sOpkbDuJDiWo0DI-Mb6rkP_Z-t7V2CNhr-cHHlaJ3Y9E5X98yOKaPjp3it3Td55Q-OmjaRckA/s320/0F52C569-AC35-4492-BF19-2AFF5718ADA1.png" width="213" /></a>
+
+<p class="MsoNormal" style="text-align: center;">The next morning consisted of the ride to the ride. (130
+miles) <span style="mso-spacerun: yes;"> </span>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNR7mFFDkXt8_CiOwCnQbwVdkLpJ5lCCynoxMSS29LaFffe1FPFoLoZluP2dloS8CECIMUPcZyB-7WuTt-3Wgat2nA8gnRRq63_nPrTTDRjEcS-0nobMQUtXK780o4tKZawN7TIkO1QVBWm1_l59jTYthgriCVVGcgvr1r5ujuCBsYFoCSBxS0J0IaUYo/s798/My%20Jasper%20to%20home.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="700" data-original-width="798" height="562" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNR7mFFDkXt8_CiOwCnQbwVdkLpJ5lCCynoxMSS29LaFffe1FPFoLoZluP2dloS8CECIMUPcZyB-7WuTt-3Wgat2nA8gnRRq63_nPrTTDRjEcS-0nobMQUtXK780o4tKZawN7TIkO1QVBWm1_l59jTYthgriCVVGcgvr1r5ujuCBsYFoCSBxS0J0IaUYo/w640-h562/My%20Jasper%20to%20home.JPG" width="640" /></a>
+<p class="MsoNormal" style="text-align: center;">After a brief refreshing at the
+hotel it was time to set out on our first ride. So, the Idea was to ride around
+Carter’s Lake and back. What it ended up being was almost 2 complete times
+around the lake, up a road that had nothing to do with the ride and then back
+on course, maybe. Yes we hit a few roads twice, but the ride was great. Nice
+country.
+
+<p class="MsoNormal" style="text-align: center;">
+<o:p></o:p>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYaagW33b1I_JLOOfXcFEwjJ8BxkT5zvvjHmPqgidWzpcmCPsWir6scuJ2DgBp58FUor9gyjySpWH_bMVxWnhGK6pikce-Sf2pVbkjTcQbQJ5V6LKHHxa1budKXzBduWOcDPbZEENuFDpVjutVrwPp0FKouRXwdOWhbRmIBMcSf-Pg-gBz_qOEVS-1Y4c/s779/5th,%201st%20Ride.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="652" data-original-width="779" height="536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYaagW33b1I_JLOOfXcFEwjJ8BxkT5zvvjHmPqgidWzpcmCPsWir6scuJ2DgBp58FUor9gyjySpWH_bMVxWnhGK6pikce-Sf2pVbkjTcQbQJ5V6LKHHxa1budKXzBduWOcDPbZEENuFDpVjutVrwPp0FKouRXwdOWhbRmIBMcSf-Pg-gBz_qOEVS-1Y4c/w640-h536/5th,%201st%20Ride.JPG" width="640" /></a>
+
+<p class="MsoNormal" style="text-align: center;">The evening ride was a collaboration of the minds. The
+destination was Hwy 52 the road itself. Incredible road to ride on a bike. The
+ride was great, we got some nice shots at the overlook. 
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Uh6JFs4QY340cxvqyI613SM9-Te283gbr52TecnDi-lhIrSeFWzCw_2CC7YxWRe7YPoM8QC1pZbsBzXDDO2wVG4w5bbQL709FxTyHlhjIgu5Ip2y0Hlf7KTjHs51u2txL3lAsxLT3WOEc95rcvT_ntYZ9tcX4bK6umr2R2pgkO_Zg1-UoEk2teHWT0Q/s2048/Blue%20Ridge%20(13).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Uh6JFs4QY340cxvqyI613SM9-Te283gbr52TecnDi-lhIrSeFWzCw_2CC7YxWRe7YPoM8QC1pZbsBzXDDO2wVG4w5bbQL709FxTyHlhjIgu5Ip2y0Hlf7KTjHs51u2txL3lAsxLT3WOEc95rcvT_ntYZ9tcX4bK6umr2R2pgkO_Zg1-UoEk2teHWT0Q/w640-h480/Blue%20Ridge%20(13).JPEG" width="640" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijtSyJk-hrSxXq0aQRUqFLBG3K-7b-TyYJkunBVxgPfy3Lq69ry7sglfIWTsMfVkIIGJjn3MWhGp5C7lqwTN1zNvdT6dKrp5IinkJD3ligPtYXaPm-ppsCe_AeAw6nY5LcUvSmQTaZnjLsN1cAPAbtxKlQ6dC0boJU3MxFeAxOWPW1yzUZZV6aAaIcCoQ/s2048/Blue%20Ridge%20(6).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijtSyJk-hrSxXq0aQRUqFLBG3K-7b-TyYJkunBVxgPfy3Lq69ry7sglfIWTsMfVkIIGJjn3MWhGp5C7lqwTN1zNvdT6dKrp5IinkJD3ligPtYXaPm-ppsCe_AeAw6nY5LcUvSmQTaZnjLsN1cAPAbtxKlQ6dC0boJU3MxFeAxOWPW1yzUZZV6aAaIcCoQ/w640-h480/Blue%20Ridge%20(6).JPEG" width="640" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv0Udrhr0VK7-JQUjzLkcNQqutaNuckq92zvT4aNxoXm_4z-WSN3BpsfJL0Sf501K1DmOOncwzOM67SMLhsfxZrlgzBBWsamR8w45ifLoeQvmzx5abdVSfl_UIYJB49zI6dTZdVJRjM1YWo1aGmytfySlqDoZd9YCs-gPLElfQBm5T0bELTCFaOsLKvB4/s2048/Blue%20Ridge%20(8).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv0Udrhr0VK7-JQUjzLkcNQqutaNuckq92zvT4aNxoXm_4z-WSN3BpsfJL0Sf501K1DmOOncwzOM67SMLhsfxZrlgzBBWsamR8w45ifLoeQvmzx5abdVSfl_UIYJB49zI6dTZdVJRjM1YWo1aGmytfySlqDoZd9YCs-gPLElfQBm5T0bELTCFaOsLKvB4/w640-h480/Blue%20Ridge%20(8).JPEG" width="640" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZXVAEoykQQHaJYY6UQu9j9puRXYrYEKdXsYLEOxNWDS3wQuZO-PaRNFXv0wtBp6SOArgNTlVP0mU8YUShYAnPlgWZciEDt_sshoTJHbCC-x7uIOL4QWSFYfqEwhw5N19HBzO1Q3UMgzjYDU7zW4RjEtPoYuoizA91W6V0CLnwTPsTUWMUmlpFSSEmQ2E/s2048/Blue%20Ridge%20(11).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZXVAEoykQQHaJYY6UQu9j9puRXYrYEKdXsYLEOxNWDS3wQuZO-PaRNFXv0wtBp6SOArgNTlVP0mU8YUShYAnPlgWZciEDt_sshoTJHbCC-x7uIOL4QWSFYfqEwhw5N19HBzO1Q3UMgzjYDU7zW4RjEtPoYuoizA91W6V0CLnwTPsTUWMUmlpFSSEmQ2E/w640-h480/Blue%20Ridge%20(11).JPEG" width="640" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYV7lxPXO_0iOeRHIUHh7yOA-6mEVWGinxOtaXOmU1Nt0U-XdtB_R8388gI-TOSJCJD3I1o_I9fZX_iLv_aY6dVJ6hs4TEB40o4cmIZUvPLvtvQcWHOWGoD_ekIfbBrp_60Bt9vxSrGD-iDjuV7moZnfv1hmf-AxUxWI8xgd2icFQqj37-hOEFNVIiiDo/s2048/Blue%20Ridge%20(12).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYV7lxPXO_0iOeRHIUHh7yOA-6mEVWGinxOtaXOmU1Nt0U-XdtB_R8388gI-TOSJCJD3I1o_I9fZX_iLv_aY6dVJ6hs4TEB40o4cmIZUvPLvtvQcWHOWGoD_ekIfbBrp_60Bt9vxSrGD-iDjuV7moZnfv1hmf-AxUxWI8xgd2icFQqj37-hOEFNVIiiDo/w640-h480/Blue%20Ridge%20(12).JPEG" width="640" /></a><p class="MsoNormal" style="text-align: center;">We got to see some kids
+goofing off around the same corner over and over and over getting pictures, and
+I’m sure video. A car who’s exhaust sounded like a gun nearly sending me into Vietnam
+War flashbacks and I was never there! But the worst and I mean bar none worst
+thing about that ride was 515 up to Ellijay. It’s concrete and it was close to
+100 degrees and it expanded. We felt like we were riding a 16 mile woops section,
+it was awful but eventually we made it! <span style="mso-spacerun: yes;"> </span><o:p></o:p>
+
+<p class="MsoNormal">
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX8zqbErYm5TbrDqgEz8DT8Nc4vuR2ihbqrhMJYmiRL9IHXaxCcJqMK0JwhLgisgUsKhDddOw_qyFTE-018z3zMd86kFpAQfAWRQPm2NG-ct5Kg9kHP023pnEN8zV-ok6rmXHiYSIS4-QCbILpnMltHygbEH4ILM_tmyuXnNFeHY9TcKD1jnvekQTBqrw/s739/5th,%202nd%20Ride.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="739" data-original-width="732" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX8zqbErYm5TbrDqgEz8DT8Nc4vuR2ihbqrhMJYmiRL9IHXaxCcJqMK0JwhLgisgUsKhDddOw_qyFTE-018z3zMd86kFpAQfAWRQPm2NG-ct5Kg9kHP023pnEN8zV-ok6rmXHiYSIS4-QCbILpnMltHygbEH4ILM_tmyuXnNFeHY9TcKD1jnvekQTBqrw/w634-h640/5th,%202nd%20Ride.JPG" width="634" /></a>
+<span style="mso-spacerun: yes;">
+</span>
+
+<p class="MsoNormal" style="text-align: center;">Sunday’s ride was a complete surprise. The original thought
+was a quick ride to Amicalola state park, then across to Ellijay and down to
+the hotel then off to home.
+
+<p class="MsoNormal" style="text-align: center;"> 
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEwxZ7IUKzfa13oDYq1TkH9-nDhkviIUo6WaC_Pioz9XUdOT2AGJ8l8Wxhg-dF4n_I84mLheSo1ECJYi5WDix-t5xbFvMbp1gOBIbGjveclDqtXzOT0xM5EKqVmYPco0OpJ9tCY5m_-RUyyhyphenhyphenBfJC_So6-Fj47RCpJuP5nXJDs1kDLTmHdphv2lRmjkw/s2048/Blue%20Ridge%20(16).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEwxZ7IUKzfa13oDYq1TkH9-nDhkviIUo6WaC_Pioz9XUdOT2AGJ8l8Wxhg-dF4n_I84mLheSo1ECJYi5WDix-t5xbFvMbp1gOBIbGjveclDqtXzOT0xM5EKqVmYPco0OpJ9tCY5m_-RUyyhyphenhyphenBfJC_So6-Fj47RCpJuP5nXJDs1kDLTmHdphv2lRmjkw/w300-h400/Blue%20Ridge%20(16).JPEG" width="300" /></a>
+ 
+
+This ride from the beginning had some of the most beautiful roads to ride.
+Hardwoods lining the road, we went through Kudzu valley, I mean it took over
+everything but it made for a wow look. Half way into the ride we extended it. It
+ended up being an additional hour and had a lunch thrown in for good measure. From Amicalola we set out for Blue Ridge not Ellijay as planned. Through some amazing roads. 
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXPxqym_wUfwr-oWYncdb6PZ7ksxBWvl3e3wEJQFXetyv7jwvRSGLw2AJVnfwWXjkkWsuXoT6i1s7WYOjAj8e2r_nOP0YzXN37P-uF3dHeW-WlIdsLbIMpE2yYFqTch346_S3YeVtxFJAtpKuf2lh8dh8whsG5CtLJXxyEuJm1MUQXF7pn9fl6kkCOnEE/s833/6th,%20Ride.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="833" data-original-width="827" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXPxqym_wUfwr-oWYncdb6PZ7ksxBWvl3e3wEJQFXetyv7jwvRSGLw2AJVnfwWXjkkWsuXoT6i1s7WYOjAj8e2r_nOP0YzXN37P-uF3dHeW-WlIdsLbIMpE2yYFqTch346_S3YeVtxFJAtpKuf2lh8dh8whsG5CtLJXxyEuJm1MUQXF7pn9fl6kkCOnEE/w636-h640/6th,%20Ride.JPG" width="636" /></a>
+We made it to Morganton turned left, rode for a bit and leaned around
+a corner and Blue Ridge work site came into view. 
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcG6UAjRI8npyurzeLxboVF-i59oMNi6geLUwjKUqkwfyPonOIFGaiWczRxKCGGABWrzO3ybHtaBu-y017GGswrs9OHKiqUmhyt677e93dSB_Q61ZeglALm-QovtBRGUizIUfh1BwJ_OSPhNV-6ks6KChdHqYq9s-nhfLQa23yQ7yRmECFWwTvcKJXxc/s2048/Blue%20Ridge%20(24).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcG6UAjRI8npyurzeLxboVF-i59oMNi6geLUwjKUqkwfyPonOIFGaiWczRxKCGGABWrzO3ybHtaBu-y017GGswrs9OHKiqUmhyt677e93dSB_Q61ZeglALm-QovtBRGUizIUfh1BwJ_OSPhNV-6ks6KChdHqYq9s-nhfLQa23yQ7yRmECFWwTvcKJXxc/w640-h480/Blue%20Ridge%20(24).JPEG" width="640" /></a>
+<p class="MsoNormal" style="text-align: center;">There it was! I got to see a
+site in this trip! Blue Ridge Dam (Hey! Watch your mouth!) is on a river I and
+my oldest boy are very familiar with, the Toccoa River. Much like the Ocoee 3
+this dam feeds a rather robust canoe, kayak and tubing industry.
+
+<p class="MsoNormal" style="text-align: center;">For more on Blue Ridge Click [here,](https://www.tva.com/energy/our-power-system/hydroelectric/blue-ridge) [here,](https://www.tva.com/environment/lake-levels/blue-ridge) or watch an
+interesting [video here!](https://youtu.be/oLE1l4kDGx4?si=tDBTmMQDyXYVcj1g)<o:p></o:p>
+
+<p class="MsoNormal" style="text-align: center;">Also, it was at this point, as I was excited to get a shot
+of both us and the bikes in front of the work sign I actually, factually, accidently
+tore my clear visor off my helmet. DOAH! Time for a new helmet!
+
+<p class="MsoNormal" style="text-align: center;">
+
+<p class="MsoNormal">
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP_moBnyMDBlsMoBVrFXwa_e4aVbqTEygep_vrRWM-_94HAOLOwaAvM_6yNnnzHYWIIRyFNEzMFjEMGPUmKsG8pDLPPa2YNOpTyrT1Kt1cyWMeDG5xC098aXRfsLGbPAVjFz4zmL0phcifPWCQ5QgezgLmMatYadabISkYYhZynXauTKEM05lhEEalFZE/s2048/Blue%20Ridge%20(25).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP_moBnyMDBlsMoBVrFXwa_e4aVbqTEygep_vrRWM-_94HAOLOwaAvM_6yNnnzHYWIIRyFNEzMFjEMGPUmKsG8pDLPPa2YNOpTyrT1Kt1cyWMeDG5xC098aXRfsLGbPAVjFz4zmL0phcifPWCQ5QgezgLmMatYadabISkYYhZynXauTKEM05lhEEalFZE/w640-h480/Blue%20Ridge%20(25).JPEG" width="640" /></a>
+ 
+
+The day ended with a ride back to the hotel, best of friends wishing each other safe rides back to reality. But after a weekend of friends, family
+and North Georgia Mountains. Reality didn’t look so bad for a moment.
+It's not the best, but here is a little video from the ride. 
+<iframe allowfullscreen="" class="BLOG_video_class" height="498" src="https://www.youtube.com/embed/dCUBH0_k-tQ" width="598" youtube-src-id="dCUBH0_k-tQ"></iframe>
+
+Here are some facts and figures.. I may be on the low side, but I didn't want to exaggerate.  
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Cks7b4rRPPnj3mKA1ibmGOjqXdC2MGlZp0bJoqr2bBJS8GpnSbbvDShKvw2IPMSAWKMl2n2PmJ_Bt_lRSiCT6uJHWQnGFWWOu8fGtzePrtFGhNS-IK70t0Rcga2_g7Xc_z5lU2UuOAkYGn9tHB7wcCAiiK5Ny3GbDyx_dpRuu-5U17vSN60CCuFalG0/s1731/Total%20Ride%20Miles%20For%20Real%20this%20time.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="1731" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Cks7b4rRPPnj3mKA1ibmGOjqXdC2MGlZp0bJoqr2bBJS8GpnSbbvDShKvw2IPMSAWKMl2n2PmJ_Bt_lRSiCT6uJHWQnGFWWOu8fGtzePrtFGhNS-IK70t0Rcga2_g7Xc_z5lU2UuOAkYGn9tHB7wcCAiiK5Ny3GbDyx_dpRuu-5U17vSN60CCuFalG0/w640-h192/Total%20Ride%20Miles%20For%20Real%20this%20time.JPG" width="640" /></a>
+A few random pictures from the weekend.
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0UpK0NH4NR9VniXW8SWObBOwjhA-MiDGEzJPZ1WbCsBcPJoDkvF7EGCzoz1Rl5mRl2k-bW0gFPObzncHcUSL5pz78G4fbohBSxCawbnPl8oJ_a1AHzGnGVAbs31ZYLOgjEmie-3MKyR__OXrMNV4fVR3ofEWCUHvyaiJHbskE4f_UFx9o7-GKVU45ruw/s2048/Blue%20Ridge%20(15).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0UpK0NH4NR9VniXW8SWObBOwjhA-MiDGEzJPZ1WbCsBcPJoDkvF7EGCzoz1Rl5mRl2k-bW0gFPObzncHcUSL5pz78G4fbohBSxCawbnPl8oJ_a1AHzGnGVAbs31ZYLOgjEmie-3MKyR__OXrMNV4fVR3ofEWCUHvyaiJHbskE4f_UFx9o7-GKVU45ruw/w480-h640/Blue%20Ridge%20(15).JPEG" width="480" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwne077993T2sagseJTPCpGZJDyKeqvVtrbqvXXDSQ9_hYIz68oA1pHN2hD6frkMi_VO56Xh1y7wqaWdQDti3p7fNakZ64GuQUNuEpNAJ79dvcFlA3QO0v1mGK8hc3aHXIkByZa8GfGghai0zAF1Y7Kz12fX3mkdA6Z-cmILxXmEvfQPlBN5vEEKBYWk/s2048/Blue%20Ridge%20(20).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwne077993T2sagseJTPCpGZJDyKeqvVtrbqvXXDSQ9_hYIz68oA1pHN2hD6frkMi_VO56Xh1y7wqaWdQDti3p7fNakZ64GuQUNuEpNAJ79dvcFlA3QO0v1mGK8hc3aHXIkByZa8GfGghai0zAF1Y7Kz12fX3mkdA6Z-cmILxXmEvfQPlBN5vEEKBYWk/w640-h480/Blue%20Ridge%20(20).JPEG" width="640" /></a>
+
+Cooling down
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjST_NzCLI8y48n_Y0RD6TEZjnlUFm5G_ZnnWJmc4_G0Q0iCfDYhnoCnQNuJ-Ys8HyL7zc-4h3MHLMQDyWahsJ9zorNo6y9gfZ-joeHlFhl68gCTsTxjR7IRcdyebxn19DQ6qwSgEWRizxVcmgWW1f3Ysnp3KEL9egsszbKiGiz1fCdIu1WEBN9i4HtEX4/s2048/Blue%20Ridge%20(26).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjST_NzCLI8y48n_Y0RD6TEZjnlUFm5G_ZnnWJmc4_G0Q0iCfDYhnoCnQNuJ-Ys8HyL7zc-4h3MHLMQDyWahsJ9zorNo6y9gfZ-joeHlFhl68gCTsTxjR7IRcdyebxn19DQ6qwSgEWRizxVcmgWW1f3Ysnp3KEL9egsszbKiGiz1fCdIu1WEBN9i4HtEX4/w480-h640/Blue%20Ridge%20(26).JPEG" width="480" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg40SkHyPdmARpjw0tx6AnVXB3YEjRCQ2aPiUhJ0aDrH5X_WA_67L74ru3h5_wgoYVCY2OxQH-isZ7F6qg0CGkCITGHzYVJis2gzpzNTCNsz6qTQPCuukcnFGheUaYavqYejKQ24v18YIt2jyAx07w3hyphenhyphenq9jbqLApX0pdYaqNqHAhED-HPx3P3w0H2pfsw/s844/Blue%20Ridge%20(01).jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="844" height="394" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg40SkHyPdmARpjw0tx6AnVXB3YEjRCQ2aPiUhJ0aDrH5X_WA_67L74ru3h5_wgoYVCY2OxQH-isZ7F6qg0CGkCITGHzYVJis2gzpzNTCNsz6qTQPCuukcnFGheUaYavqYejKQ24v18YIt2jyAx07w3hyphenhyphenq9jbqLApX0pdYaqNqHAhED-HPx3P3w0H2pfsw/w640-h394/Blue%20Ridge%20(01).jpg" width="640" /></a>
+This last picture was taken July 4th at the party. How majestic is that?
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6IFLVmHgR9lEci9EUgfqmPcESEJ0gqJiXTuFNdiUABGhheUap-8p7K5HyxfKtufJM2WvDZhSyly8sc4pGRO92f4KCSqMTRTKndRpaDaoVQpjtJ4djBZcaS-I1y40Dx9l26ZwqD8xYLE6O0tqasTf_yGueEeumnvYmcAZpshIhKSipJ_rMSPDpUjKdvc/s2048/4th2025%20(1).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6IFLVmHgR9lEci9EUgfqmPcESEJ0gqJiXTuFNdiUABGhheUap-8p7K5HyxfKtufJM2WvDZhSyly8sc4pGRO92f4KCSqMTRTKndRpaDaoVQpjtJ4djBZcaS-I1y40Dx9l26ZwqD8xYLE6O0tqasTf_yGueEeumnvYmcAZpshIhKSipJ_rMSPDpUjKdvc/w640-h480/4th2025%20(1).JPEG" width="640" /></a>
