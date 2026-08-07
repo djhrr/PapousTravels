@@ -2,6 +2,7 @@
 title: "Work Sites: Final Trip 12/14 ~ Wheeler"
 date: 2026-07-01
 author: mrogers
+time: 15:00
 layout: post
 ---
 
