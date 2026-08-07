@@ -9,8 +9,7 @@ permalink: /blog/
     <h1 style="margin:0">Blog</h1>
     <div class="sort-buttons">
       <span style="font-size:.85rem;color:#888;margin-right:8px">Sort:</span>
-      <button class="sort-btn active" id="date-toggle" data-sort="date-desc">Oldest first</button>
-      <button class="sort-btn" data-sort="alpha">A – Z</button>
+      <button class="sort-btn active" id="date-toggle" data-sort="date-desc">Oldest first</button>      <button class="sort-btn" data-sort="alpha">A – Z</button>
     </div>
   </div>
 
@@ -43,38 +42,31 @@ permalink: /blog/
 <script>
   const list = document.getElementById('blog-list');
   const cards = Array.from(list.querySelectorAll('.blog-post-card'));
-
-  // Default order is newest first (Eleventy already sorted desc); button offers toggle to oldest
   const toggle = document.getElementById('date-toggle');
+
+  // currentSort tracks what is currently displayed
+  // Start: newest first. Button label shows what clicking WILL switch to.
+  let currentSort = 'date-desc';
 
   function sortCards(mode) {
     cards.sort((a, b) => {
-      if (mode === 'date-desc') {
-        const da = a.dataset.date + 'T' + a.dataset.time;
-        const db = b.dataset.date + 'T' + b.dataset.time;
-        return db.localeCompare(da);
-      }
-      if (mode === 'date-asc') {
-        const da = a.dataset.date + 'T' + a.dataset.time;
-        const db = b.dataset.date + 'T' + b.dataset.time;
-        return da.localeCompare(db);
-      }
       if (mode === 'alpha') return a.dataset.title.localeCompare(b.dataset.title);
+      const da = a.dataset.date + 'T' + a.dataset.time;
+      const db = b.dataset.date + 'T' + b.dataset.time;
+      return mode === 'date-desc' ? db.localeCompare(da) : da.localeCompare(db);
     });
     cards.forEach(c => list.appendChild(c));
   }
 
+  // Apply newest-first on page load
+  sortCards('date-desc');
+
   toggle.addEventListener('click', () => {
-    if (toggle.dataset.sort === 'date-desc') {
-      toggle.dataset.sort = 'date-asc';
-      toggle.textContent = 'Newest first';
-    } else {
-      toggle.dataset.sort = 'date-desc';
-      toggle.textContent = 'Oldest first';
-    }
+    currentSort = (currentSort === 'date-desc') ? 'date-asc' : 'date-desc';
+    toggle.textContent = (currentSort === 'date-desc') ? 'Oldest first' : 'Newest first';
     toggle.classList.add('active');
-    document.querySelectorAll('.sort-btn').forEach(b => { if (b !== toggle) b.classList.remove('active'); });
-    sortCards(toggle.dataset.sort);
+    document.querySelectorAll('.sort-btn:not(#date-toggle)').forEach(b => b.classList.remove('active'));
+    sortCards(currentSort);
   });
 
   document.querySelectorAll('.sort-btn:not(#date-toggle)').forEach(btn => {
