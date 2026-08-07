@@ -1,5 +1,16 @@
+const markdownIt = require("markdown-it");
+const markdownItLinkAttr = require("markdown-it-link-attributes");
+
 module.exports = function(eleventyConfig) {
-  
+
+  // Configure markdown-it to open all links in new tab
+  const md = markdownIt({ html: true, linkify: true })
+    .use(markdownItLinkAttr, {
+      matcher(href) { return true; },
+      attrs: { target: "_blank", rel: "noopener noreferrer" }
+    });
+  eleventyConfig.setLibrary("md", md);
+
   // Copy static assets
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("CNAME");

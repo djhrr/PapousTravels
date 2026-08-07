@@ -9,14 +9,14 @@ layout: post
 
 <p style="text-align: center;"> Shawnee
 
-<a href="/assets/blog-images/KY_6_Shawnee__15_.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="400" src="/assets/blog-images/KY_6_Shawnee__15_.png" width="266" /></a>
+<a href="/assets/blog-images/KY_6_Shawnee__15_.png" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="1024" height="400" src="/assets/blog-images/KY_6_Shawnee__15_.png" width="266" /></a>
 <p style="text-align: center;">One of the last 4 remaining active Fossil plants. I'm glad to get a chance to visit them before they are all gone.  At one time it was considered the 3rd largest coal power plant in the world.
 
 <p style="text-align: center;">It's history is only eclipsed by the sheer size of the stacks.
 
 <p style="text-align: center;"> 
 
-<a href="/assets/blog-images/KY_6_Shawnee__5_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/KY_6_Shawnee__5_.JPEG" width="400" /></a>
+<a href="/assets/blog-images/KY_6_Shawnee__5_.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/KY_6_Shawnee__5_.JPEG" width="400" /></a>
 As the day was soon ending it was time to say goodbye to a brief stay at Shawnee.. 
 Here you go! More on Shawnee! 
 

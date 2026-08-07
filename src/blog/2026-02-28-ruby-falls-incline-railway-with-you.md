@@ -9,7 +9,7 @@ layout: post
 
 Ruby Falls & the Lookout Mountain Incline Railway — a magical day on the mountain with you!
 
-<a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;">
+<a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer">
 <img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/Image_94545431.jpg" width="640" />
 </a>
 
@@ -21,13 +21,13 @@ Ruby Falls & the Lookout Mountain Incline Railway — a magical day on the mount
 
 <p class="MsoNormal">Ruby Falls!
 
-<a href="/assets/blog-images/IMG_0222.JPEG" style="margin-left: 1em; margin-right: 1em;">
+<a href="/assets/blog-images/IMG_0222.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer">
 <img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_0222.JPEG" width="480" />
 </a>
 
   Ruby Falls is one of those rare natural wonders that feels almost otherworldly. This 145-foot underground waterfall sits 260 feet beneath the surface of Lookout Mountain inside a beautiful limestone cave system — and it’s the tallest and deepest underground waterfall open to the public in the United States. Discovered accidentally in 1928 by Leo Lambert while drilling for an elevator shaft, he named it after his wife Ruby when he brought her back to see it.
 
-<a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;">
+<a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer">
 <img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/Image_94545431.jpg" width="640" />
 </a>
 
@@ -35,7 +35,7 @@ The guided cave tour takes you along easy walking paths past incredible stalacti
 
 <h2 style="text-align: center;">Riding the Famous Incline Railway</h2>
 
-<a href="/assets/blog-images/IMG_3210.JPG" style="margin-left: 1em; margin-right: 1em;">
+<a href="/assets/blog-images/IMG_3210.JPG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer">
 <img border="0" data-original-height="4032" data-original-width="3024" height="400" src="/assets/blog-images/IMG_3210.JPG" width="300" />
 </a>
 

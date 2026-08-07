@@ -12,6 +12,7 @@
     "@11ty/eleventy": "^2.0.0",
     "express": "^5.2.1",
     "express-session": "^1.19.0",
+    "markdown-it-link-attributes": "^4.0.1",
     "multer": "^2.2.0",
     "node-ical": "^0.27.1",
     "xml2js": "^0.6.2"

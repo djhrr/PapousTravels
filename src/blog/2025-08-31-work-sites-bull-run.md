@@ -9,7 +9,7 @@ layout: post
 
 Bull Run
 
-<a href="/assets/blog-images/IMG_1963.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1963.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1963.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1963.JPEG" width="640" /></a>
 
 <p class="MsoNormal"><span style="mso-tab-count: 1;">                </span>From
 the highs of Norris to the lows of Bull Run. The once site that was in the
@@ -20,14 +20,14 @@ it’s been completely shut down.
 
 <p class="MsoNormal">
 
-<a href="/assets/blog-images/IMG_1967.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1967.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1967.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1967.JPEG" width="320" /></a>
 
 <p class="MsoNormal"> 
 
-<a href="/assets/blog-images/IMG_1973.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1973.JPEG" width="320" /></a>
-<a href="/assets/blog-images/IMG_1972.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1972.JPEG" width="320" /></a>
-<a href="/assets/blog-images/IMG_1968.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1968.JPEG" width="320" /></a>
-<a href="/assets/blog-images/IMG_1978.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1978.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1973.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1973.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1972.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1972.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1968.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1968.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1978.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1978.JPEG" width="320" /></a>
 
 <span style="mso-tab-count: 1;">                </span>However there is hope for
 the future of Bull Run! A possible first site of the new modular Fusion plants.

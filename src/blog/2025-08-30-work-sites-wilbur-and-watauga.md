@@ -7,7 +7,7 @@ updated: 2025-12-06T06:18:15.033Z
 layout: post
 ---
 
-<a href="/assets/blog-images/Wilbur_Dam.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="764" data-original-width="1360" height="360" src="/assets/blog-images/Wilbur_Dam.jpg" width="640" /></a>
+<a href="/assets/blog-images/Wilbur_Dam.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="764" data-original-width="1360" height="360" src="/assets/blog-images/Wilbur_Dam.jpg" width="640" /></a>
 Wilbur and Watauga dams. I came for one and found the other.
 Well sort of. It wasn’t until I was there that I realized that Watauga was down
 the road. But let’s not get ahead of ourselves. Wilbur is the oldest TVA dam.
@@ -19,11 +19,11 @@ was just so beautiful.<o:p></o:p>
 
 <p class="MsoNormal"><o:p> </o:p>
 
-<a href="/assets/blog-images/IMG_1801.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1801.JPEG" width="480" /></a>
-<a href="/assets/blog-images/IMG_1813.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1813.JPEG" width="480" /></a>
-<a href="/assets/blog-images/IMG_1812.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1812.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1808.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1808.JPEG" width="480" /></a>
-<a href="/assets/blog-images/IMG_1806.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1806.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1801.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1801.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1813.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1813.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1812.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1812.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1808.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1808.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1806.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1806.JPEG" width="640" /></a>
 
 <p class="MsoNormal">After hanging out for a bit and enjoying the sights and
 sounds, and parking in front of the entrance to the road over the dam
@@ -32,19 +32,19 @@ personnel. I continued on to see Watauga. Or at least try! <o:p></o:p>
 
 <p class="MsoNormal"><o:p></o:p>
 
-<a href="/assets/blog-images/IMG_1807.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1807.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1807.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1807.JPEG" width="640" /></a>
 
 <p class="MsoNormal">And try I did, but it happens that since 9/11 the road over
 Watauga has been closed to the public. You can get to the overlook and see the
 sights but unfortunately you cannot ride to the dam. I was quite upset about
 that. But you get what you get and you don’t pitch a fit. 
 
-<a href="/assets/blog-images/IMG_1820.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1820.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1820.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1820.JPEG" width="640" /></a>
 
 There were some good shots from the overlook though. I’ll take it! 
-<a href="/assets/blog-images/IMG_1825.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1825.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1817.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1817.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1818.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1818.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1821.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1821.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1825.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1825.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1817.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1817.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1818.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1818.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1821.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1821.JPEG" width="640" /></a>
 
 You can find more on Wilbur and Watauga [here](https://www.tva.com/energy/our-power-system/hydroelectric/wilbur-dam) [here](https://tennesseerivervalleygeotourism.org/entries/tva-wilbur-dam-and-reservoir/3f1edec5-e67b-46c0-90b3-a597b3acca27) [here](https://www.tva.com/about-tva/our-history/built-for-the-people/the-grand-old-dam) [here](https://www.tva.com/energy/our-power-system/hydroelectric/watauga) and [here](https://tennesseerivervalleygeotourism.org/entries/tva-watauga-dam-and-reservoir/aaf09fda-9720-4914-85be-943a8893b62a)

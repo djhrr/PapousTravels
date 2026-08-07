@@ -9,7 +9,7 @@ layout: post
 
 South Holston Dam to me was just a very picturesque site. 
 
-<a href="/assets/blog-images/IMG_1830.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1830.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1830.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1830.JPEG" width="640" /></a>
 Riding
 in I first saw a cool little dam I couldn’t figure out what exactly it was, it
 wasn’t a dam dam, it was more like a lock and dam ridge like found on the green
@@ -20,7 +20,7 @@ other features, read more about it [here.](https://www.tva.com/about-tva/our-his
 
 <p class="MsoNormal"><o:p> </o:p>
 
-<a href="/assets/blog-images/IMG_1835.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1835.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1835.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1835.JPEG" width="640" /></a>
 
 <p class="MsoNormal">
 
@@ -30,9 +30,9 @@ pulls the water from the bottom of the reservoir and not the top or middle.
 This makes the water in the South Holston River incredibly cold even in the
 summer.
 
-<o:p></o:p><a href="/assets/blog-images/IMG_1836.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1836.JPEG" width="640" /></a>
+<o:p></o:p><a href="/assets/blog-images/IMG_1836.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1836.JPEG" width="640" /></a>
 
-<a href="/assets/blog-images/IMG_1840.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1840.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1840.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1840.JPEG" width="480" /></a>
 
 The dam itself, riding up to it, coming around the corner it’s impressive. A large wall of rocks. And the closer you get the smaller you feel. Keep riding and I found it’s yet another TVA dam you can ride across so of course I did!
 <iframe allowfullscreen="" class="BLOG_video_class" height="366" src="https://www.youtube.com/embed/7XLmhpPsWmg" width="441" youtube-src-id="7XLmhpPsWmg"></iframe>

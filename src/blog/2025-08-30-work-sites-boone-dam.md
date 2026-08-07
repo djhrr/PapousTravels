@@ -15,7 +15,7 @@ plant was named after this great frontiersman. As many things in the area are.
 
 <p class="MsoNormal">
 
-<a href="/assets/blog-images/IMG_1747.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1747.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1747.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1747.JPEG" width="640" /></a>
 
 Built in 1950’s and restored in the early 2010’s I found Boone to be a peaceful
 quaint site. I’ve learned every dam tends to have a turbine out for people to
@@ -26,9 +26,9 @@ cleanup on isle 10 was in the plans. <span style="font-family: Wingdings; mso-as
 
 <p class="MsoNormal">
 
-<a href="/assets/blog-images/IMG_1754.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1754.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1757.1.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="935" data-original-width="1536" height="390" src="/assets/blog-images/IMG_1757.1.JPEG" width="640" /></a>
-<a href="/assets/blog-images/IMG_1761.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1761.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1754.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1754.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1757.1.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="935" data-original-width="1536" height="390" src="/assets/blog-images/IMG_1757.1.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1761.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1761.JPEG" width="640" /></a>
 <span style="font-family: Wingdings;">
 </span>
 

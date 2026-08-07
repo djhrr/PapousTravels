@@ -9,15 +9,15 @@ layout: post
 
 Cherokee dam
 
-<a href="/assets/blog-images/IMG_1896.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1896.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1896.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1896.JPEG" width="640" /></a>
 I must admit. Of all the dams that were your run of the
 mill, seen every day dam, Cherokee was it for me.
 
-<p class="MsoNormal"><a href="/assets/blog-images/IMG_1889.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2954" data-original-width="8518" height="222" src="/assets/blog-images/IMG_1889.JPEG" width="640" /></a>
+<p class="MsoNormal"><a href="/assets/blog-images/IMG_1889.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="2954" data-original-width="8518" height="222" src="/assets/blog-images/IMG_1889.JPEG" width="640" /></a>
 
 <p class="MsoNormal">Ironically, this is the big daddy of the trio that included South Holston and Ft. Patrick Henry. But it didn’t have any defining features. As much as I hate to say it. If you wanted a Dam you could fall asleep describing, it’s Cherokee dam. And if I had any chance of spinning this I would say, that is how good it was built. It is quite boringly perfect.
 
-<a href="/assets/blog-images/IMG_1890.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1890.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1890.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1890.JPEG" width="640" /></a>
 
 <p class="MsoNormal"><o:p> </o:p>I will pause here to say. The ride from John Sevier to
 Cherokee dam was the hands down best scenic ride I have had between sites. And
@@ -30,7 +30,7 @@ sites involved.
 
 <p class="MsoNormal">Douglas dam
 
-<a href="/assets/blog-images/IMG_1936.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1936.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1936.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1936.JPEG" width="640" /></a>
 <o:p></o:p>
 
 <p class="MsoNormal">Douglas dam holds a special place in my heart. Ok personal
@@ -39,9 +39,9 @@ aside from Chickamauga ‘s sign. The road was very busy. I actually passed it
 and worked up the nerve to finally park in front and get the shot while so many
 people were driving past.
 
-<a href="/assets/blog-images/IMG_1904.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1904.JPEG" width="400" /></a>
-<a href="/assets/blog-images/IMG_1933.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1933.JPEG" width="400" /></a>
-<a href="/assets/blog-images/IMG_1922.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1922.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1904.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1904.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1933.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1933.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1922.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1922.JPEG" width="400" /></a>
  <o:p></o:p>
 
 <p class="MsoNormal">Enough about me, the site I remember from the overlook of
@@ -53,12 +53,12 @@ I’ve ever known it.
 
 <p class="MsoNormal">
 
-<a href="/assets/blog-images/IMG_1905.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1905.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1905.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1905.JPEG" width="640" /></a>
  
 
 The Bathrooms, yeah well I guess we need to talk about this sooner or later. I
 am not impressed with the number of visitor centers and public restrooms I have
-seen at my sites. This is a good example of what I mean. .<a href="/assets/blog-images/IMG_1919.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1919.JPEG" width="320" /></a>
+seen at my sites. This is a good example of what I mean. .<a href="/assets/blog-images/IMG_1919.JPEG" style="margin-left: 1em; margin-right: 1em;" target="_blank" rel="noopener noreferrer"><img border="0" data-original-height="1536" data-original-width="2048" height="240" src="/assets/blog-images/IMG_1919.JPEG" width="320" /></a>
 
 <span face=""Calibri",sans-serif" style="font-size: 11pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">
 Bathrooms aside, this rider just needs a tree and a shadow so I’m good. Time to
