@@ -1,0 +1,322 @@
+---
+layout: null
+permalink: /admin/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Papou Admin</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    body{font-family:Poppins,sans-serif;margin:0;background:#f4f4f4;color:#222}
+    header{background:#1a3a5c;color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center}
+    header h1{margin:0;font-size:1.2rem}
+    header a{color:#aed6f1;font-size:.85rem;text-decoration:none;cursor:pointer}
+    .wrap{max-width:860px;margin:32px auto;padding:0 16px}
+    .card{background:#fff;border-radius:8px;padding:28px;box-shadow:0 2px 8px rgba(0,0,0,.08);margin-bottom:20px}
+    label{display:block;font-weight:600;margin-bottom:6px;font-size:.9rem}
+    input[type=text],input[type=date],input[type=password],textarea{width:100%;padding:10px;border:1px solid #ccc;border-radius:6px;font-size:.95rem;font-family:inherit}
+    textarea{min-height:120px;resize:vertical}
+    .btn{display:inline-block;padding:10px 20px;border:none;border-radius:6px;cursor:pointer;font-size:.95rem;font-weight:600;font-family:inherit}
+    .btn-primary{background:#1a3a5c;color:#fff}
+    .btn-secondary{background:#eee;color:#333;border:1px solid #ccc}
+    .btn-danger{background:#c0392b;color:#fff}
+    .btn-green{background:#27ae60;color:#fff}
+    .block{background:#f9f9f9;border:1px solid #ddd;border-radius:6px;padding:16px;margin-bottom:12px}
+    .block-label{font-size:.75rem;font-weight:700;text-transform:uppercase;color:#888;margin-bottom:8px}
+    .block-actions{display:flex;gap:8px;margin-top:10px}
+    .add-buttons{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+    .image-preview{max-width:100%;max-height:200px;margin-top:8px;border-radius:4px;display:none}
+    .hint{font-size:.8rem;color:#888;margin-top:4px}
+    .spinner{display:none;margin-left:10px;font-size:.85rem;color:#666}
+
+    /* Login screen */
+    #login-screen{display:flex;align-items:center;justify-content:center;min-height:100vh;background:#1a3a5c}
+    #login-screen .card{max-width:400px;width:100%;padding:36px}
+    #login-screen h2{margin:0 0 4px;color:#1a3a5c}
+    #login-screen .subtitle{color:#888;font-size:.85rem;margin-bottom:24px}
+    .error{color:#c0392b;font-size:.85rem;margin-top:8px}
+    .field{margin-bottom:16px}
+    details summary{cursor:pointer;font-size:.85rem;color:#888;margin-bottom:8px}
+  </style>
+</head>
+<body>
+
+<!-- ── Login Screen ──────────────────────────────────── -->
+<div id="login-screen">
+  <div class="card">
+    <h2>Papou Admin</h2>
+    <p class="subtitle">Sign in to write a new post</p>
+    <div class="field">
+      <label>Username</label>
+      <input type="text" id="login-user" autofocus>
+    </div>
+    <div class="field">
+      <label>Password</label>
+      <input type="password" id="login-pass">
+    </div>
+    <details id="token-section">
+      <summary>GitHub Token (required first time)</summary>
+      <div class="field" style="margin-top:8px">
+        <input type="password" id="login-token" placeholder="ghp_…">
+        <p class="hint">Saved to your browser. Never sent anywhere except GitHub.</p>
+      </div>
+    </details>
+    <p class="error" id="login-error" style="display:none"></p>
+    <button class="btn btn-primary" style="width:100%;margin-top:8px" onclick="doLogin()">Log In</button>
+  </div>
+</div>
+
+<!-- ── Editor ────────────────────────────────────────── -->
+<div id="editor-screen" style="display:none">
+  <header>
+    <h1>📝 Papou's Travels — Admin</h1>
+    <a onclick="doLogout()">Log out</a>
+  </header>
+  <div class="wrap">
+    <div class="card">
+      <h2 style="margin:0 0 20px">New Blog Post</h2>
+
+      <div class="field">
+        <label>Title</label>
+        <input type="text" id="post-title" placeholder="Enter post title…">
+      </div>
+
+      <div class="field">
+        <label>Date</label>
+        <input type="date" id="post-date">
+      </div>
+
+      <div style="margin-top:20px">
+        <label>Content</label>
+        <div id="blocks"></div>
+        <div class="add-buttons">
+          <button class="btn btn-secondary" onclick="addParagraph()">+ Paragraph</button>
+          <button class="btn btn-secondary" onclick="addImage()">+ Image</button>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn btn-green" id="publish-btn" onclick="publishPost()" style="width:100%;padding:14px;font-size:1rem">
+      Publish Post →
+    </button>
+    <span class="spinner" id="spinner">⏳ Uploading to GitHub…</span>
+  </div>
+</div>
+
+<!-- ── Success ───────────────────────────────────────── -->
+<div id="success-screen" style="display:none">
+  <header><h1>📝 Papou's Travels — Admin</h1><a onclick="doLogout()">Log out</a></header>
+  <div class="wrap">
+    <div class="card">
+      <h2 style="color:#27ae60">✅ Post Published!</h2>
+      <p id="success-msg"></p>
+      <p>GitHub Actions will rebuild the site in ~1 minute.</p>
+      <p><a id="success-link" href="#" target="_blank">View post →</a></p>
+      <button class="btn btn-primary" onclick="resetEditor()" style="margin-top:12px">Write another post</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const OWNER = 'djhrr';
+const REPO  = 'papoustravels';
+let blockCount = 0;
+let ghToken = '';
+
+/* ── Auth ──────────────────────────────────────────── */
+function doLogin() {
+  const user  = document.getElementById('login-user').value.trim();
+  const pass  = document.getElementById('login-pass').value;
+  const token = document.getElementById('login-token').value.trim() || localStorage.getItem('gh_token');
+
+  if (user !== 'admin' || pass !== 'password') {
+    showErr('Invalid username or password.');
+    return;
+  }
+  if (!token) {
+    showErr('Please enter your GitHub token.');
+    document.getElementById('token-section').open = true;
+    return;
+  }
+  localStorage.setItem('gh_token', token);
+  ghToken = token;
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('editor-screen').style.display = 'block';
+  document.getElementById('post-date').value = new Date().toISOString().slice(0,10);
+}
+
+function doLogout() {
+  ghToken = '';
+  document.getElementById('editor-screen').style.display = 'none';
+  document.getElementById('success-screen').style.display = 'none';
+  document.getElementById('login-screen').style.display = 'flex';
+}
+
+function showErr(msg) {
+  const el = document.getElementById('login-error');
+  el.textContent = msg;
+  el.style.display = 'block';
+}
+
+// Pre-fill token if saved
+window.addEventListener('load', () => {
+  const saved = localStorage.getItem('gh_token');
+  if (saved) document.getElementById('login-token').value = saved;
+  document.getElementById('login-pass').addEventListener('keydown', e => { if(e.key==='Enter') doLogin(); });
+});
+
+/* ── Block Editor ──────────────────────────────────── */
+function addParagraph() {
+  const id = ++blockCount;
+  const div = document.createElement('div');
+  div.className = 'block'; div.id = 'block-' + id; div.dataset.type = 'paragraph';
+  div.innerHTML = `
+    <div class="block-label">Paragraph</div>
+    <textarea placeholder="Write your paragraph here…"></textarea>
+    <div class="block-actions">
+      <button class="btn btn-secondary" onclick="moveBlock(${id},-1)">↑</button>
+      <button class="btn btn-secondary" onclick="moveBlock(${id},1)">↓</button>
+      <button class="btn btn-danger" onclick="removeBlock(${id})">Remove</button>
+    </div>`;
+  document.getElementById('blocks').appendChild(div);
+}
+
+function addImage() {
+  const id = ++blockCount;
+  const div = document.createElement('div');
+  div.className = 'block'; div.id = 'block-' + id; div.dataset.type = 'image';
+  div.innerHTML = `
+    <div class="block-label">Image</div>
+    <input type="file" accept="image/*" onchange="previewImage(this,${id})">
+    <img class="image-preview" id="preview-${id}">
+    <input type="text" placeholder="Alt text / caption (optional)" style="margin-top:8px" id="alt-${id}">
+    <input type="hidden" id="imgfile-${id}">
+    <div class="block-actions">
+      <button class="btn btn-secondary" onclick="moveBlock(${id},-1)">↑</button>
+      <button class="btn btn-secondary" onclick="moveBlock(${id},1)">↓</button>
+      <button class="btn btn-danger" onclick="removeBlock(${id})">Remove</button>
+    </div>`;
+  document.getElementById('blocks').appendChild(div);
+}
+
+function removeBlock(id) { document.getElementById('block-'+id).remove(); }
+
+function moveBlock(id, dir) {
+  const el = document.getElementById('block-'+id);
+  const parent = el.parentNode;
+  if (dir === -1 && el.previousElementSibling) parent.insertBefore(el, el.previousElementSibling);
+  if (dir === 1  && el.nextElementSibling)     parent.insertBefore(el.nextElementSibling, el);
+}
+
+function previewImage(input, id) {
+  const file = input.files[0];
+  if (!file) return;
+  document.getElementById('imgfile-'+id).value = id; // mark as having file
+  const reader = new FileReader();
+  reader.onload = e => {
+    const img = document.getElementById('preview-'+id);
+    img.src = e.target.result;
+    img.style.display = 'block';
+    img.dataset.b64 = e.target.result.split(',')[1];
+    img.dataset.name = file.name.replace(/\s+/g,'_');
+    img.dataset.mime = file.type;
+  };
+  reader.readAsDataURL(file);
+}
+
+/* ── GitHub API ────────────────────────────────────── */
+async function ghPut(path, b64content, message) {
+  // Check if file exists (need sha for update)
+  let sha;
+  const check = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+    headers: { Authorization: `token ${ghToken}`, Accept: 'application/vnd.github+json' }
+  });
+  if (check.ok) sha = (await check.json()).sha;
+
+  const body = { message, content: b64content, branch: 'main' };
+  if (sha) body.sha = sha;
+
+  const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+    method: 'PUT',
+    headers: { Authorization: `token ${ghToken}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+  return res.json();
+}
+
+function slugify(title) {
+  return title.toLowerCase().replace(/[^a-z0-9\s-]/g,'').trim().replace(/\s+/g,'-').slice(0,60);
+}
+
+function strToB64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+
+/* ── Publish ───────────────────────────────────────── */
+async function publishPost() {
+  const title = document.getElementById('post-title').value.trim();
+  const date  = document.getElementById('post-date').value;
+  if (!title) { alert('Please enter a title.'); return; }
+
+  document.getElementById('publish-btn').disabled = true;
+  document.getElementById('spinner').style.display = 'inline';
+
+  try {
+    const blockEls = document.querySelectorAll('#blocks .block');
+    const lines = [];
+
+    for (const el of blockEls) {
+      const type = el.dataset.type;
+      if (type === 'paragraph') {
+        const text = el.querySelector('textarea').value.trim();
+        if (text) lines.push(text + '\n');
+      } else if (type === 'image') {
+        const preview = el.querySelector('.image-preview');
+        if (!preview.dataset.b64) continue;
+        const filename = Date.now() + '-' + preview.dataset.name;
+        const repoPath = `assets/blog-images/${filename}`;
+        await ghPut(repoPath, preview.dataset.b64, `Upload image: ${filename}`);
+        const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${repoPath}`;
+        const alt = el.querySelector('[id^=alt-]').value || '';
+        lines.push(`![${alt}](${rawUrl})\n`);
+      }
+    }
+
+    const slug = `${date}-${slugify(title)}`;
+    let md = `---\ntitle: "${title.replace(/"/g,'\\"')}"\ndate: ${date}\nlayout: post\n---\n\n`;
+    md += lines.join('\n');
+
+    await ghPut(`src/blog/${slug}.md`, strToB64(md), `New post: ${title}`);
+
+    document.getElementById('success-msg').textContent = `"${title}" has been committed to GitHub.`;
+    document.getElementById('success-link').href = `https://papoustravels.com/blog/${slug}/`;
+    document.getElementById('success-link').textContent = `papoustravels.com/blog/${slug}/`;
+    document.getElementById('editor-screen').style.display = 'none';
+    document.getElementById('success-screen').style.display = 'block';
+
+  } catch(e) {
+    alert('Error: ' + e.message);
+    document.getElementById('publish-btn').disabled = false;
+    document.getElementById('spinner').style.display = 'none';
+  }
+}
+
+function resetEditor() {
+  document.getElementById('post-title').value = '';
+  document.getElementById('post-date').value = new Date().toISOString().slice(0,10);
+  document.getElementById('blocks').innerHTML = '';
+  blockCount = 0;
+  document.getElementById('success-screen').style.display = 'none';
+  document.getElementById('editor-screen').style.display = 'block';
+  document.getElementById('publish-btn').disabled = false;
+  document.getElementById('spinner').style.display = 'none';
+}
+</script>
+</body>
+</html>
