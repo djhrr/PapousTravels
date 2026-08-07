@@ -2,7 +2,7 @@
 title: "Work Sites: Final Trip 13/14 ~ Muscle Shoals"
 date: 2026-07-01
 author: mrogers
-time: 16:00
+time: "16:00"
 layout: post
 ---
 

@@ -2,7 +2,7 @@
 title: "Work Sites: Final Trip 14/14 ~ Wilson Dam FINAL SITE"
 date: 2026-07-02
 author: mrogers
-time: 18:00
+time: "18:00"
 layout: post
 ---
 

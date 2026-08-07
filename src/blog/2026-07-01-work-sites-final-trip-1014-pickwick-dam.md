@@ -2,7 +2,7 @@
 title: "Work Sites: Final Trip 10/14 ~ Pickwick Dam"
 date: 2026-07-01
 author: mrogers
-time: 09:00
+time: "09:00"
 layout: post
 ---
 

@@ -276,7 +276,7 @@ async function saveEdit(){
   var fm='---\ntitle: "'+title.replace(/"/g,'\\"')+'"\ndate: '+date+'\n';
   if(author)fm+='author: '+author+'\n';
   var editTime=document.getElementById('edit-time').value.trim();
-  if(editTime)fm+='time: '+editTime+'\n';
+  if(editTime)fm+='time: "'+editTime+'"\n';
   fm+='layout: post\n---\n\n';
   var full=fm+body;
   document.getElementById('edit-save-btn').disabled=true;
@@ -374,7 +374,7 @@ async function publishNew(){
     }
     var slug=date+'-'+slugify(title);
     var md='---\ntitle: "'+title.replace(/"/g,'\\"')+'"\ndate: '+date+'\n';
-    if(author)md+='author: '+author+'\n';var newTime=document.getElementById('new-time').value.trim();if(newTime)md+='time: '+newTime+'\n';
+    if(author)md+='author: '+author+'\n';var newTime=document.getElementById('new-time').value.trim();if(newTime)md+='time: "'+newTime+'"\n';
     md+='layout: post\n---\n\n'+lines.join('\n');
     await ghPut('src/blog/'+slug+'.md',strToB64(md),'New post: '+title,null);
     document.getElementById('success-msg').textContent='"'+title+'" has been published.';
