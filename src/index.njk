@@ -39,6 +39,23 @@ permalink: /
       </div>
     </div>
   </div>
+
+  {% if youtube.length %}
+  <div class="youtube-section" style="margin-top:32px">
+    <h3 style="margin-bottom:16px">Latest from YouTube</h3>
+    <div class="yt-grid">
+      {% for video in youtube %}
+      <a href="{{ video.url }}" target="_blank" rel="noopener" class="yt-card">
+        <div class="yt-thumb" style="background-image:url('{{ video.thumbnail }}');background-size:cover;background-position:center"></div>
+        <div class="yt-body">
+          <h4>{{ video.title }}</h4>
+          {% if video.description %}<p>{{ video.description }}{% if video.description.length >= 200 %}…{% endif %}</p>{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
 </section>
 
 <aside class="sidebar">
