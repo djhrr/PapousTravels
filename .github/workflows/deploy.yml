@@ -28,6 +28,8 @@ jobs:
       - run: npm ci
 
       - run: npx @11ty/eleventy
+        env:
+          GCAL_ICAL_URL: ${{ secrets.GCAL_ICAL_URL }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

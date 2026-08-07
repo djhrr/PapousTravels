@@ -24,7 +24,17 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString().split('T')[0];
   });
 
-  // Limit an array to N items
+  // Format a JS Date object for calendar display
+  eleventyConfig.addFilter("calDate", dateObj => {
+    return new Date(dateObj).toLocaleDateString('en-US', {
+      weekday: 'short', month: 'short', day: 'numeric'
+    });
+  });
+
+  eleventyConfig.addFilter("calTime", dateObj => {
+    const d = new Date(dateObj);
+    return d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+  });
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
   eleventyConfig.addFilter("firstImage", content => {
     const match = content && content.match(/<img[^>]+src="([^"]+)"/i);

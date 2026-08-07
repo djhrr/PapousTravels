@@ -49,8 +49,17 @@ permalink: /
 
   <div class="events">
     <h5 style="margin-top:18px">Upcoming Events:</h5>
-    <div class="event">Copilot: Lunch 'n Learn events – Practical Skills for Smarter Workflows</div>
-    <div class="event">TVA 401(k) Information Sessions: LifePath Paycheck</div>
-    <div class="event">TVA x Microsoft: Build Your First App with Copilot</div>
+    {% if calendar.length %}
+      {% for event in calendar %}
+        <div class="event">
+          <span class="event-date">{{ event.start | calDate }}</span>
+          {% if not event.allDay %}<span class="event-time"> · {{ event.start | calTime }}</span>{% endif %}
+          <br>{{ event.summary }}
+          {% if event.location %}<br><span class="event-location">📍 {{ event.location }}</span>{% endif %}
+        </div>
+      {% endfor %}
+    {% else %}
+      <div class="event">No events in the next 7 days.</div>
+    {% endif %}
   </div>
 </aside>
