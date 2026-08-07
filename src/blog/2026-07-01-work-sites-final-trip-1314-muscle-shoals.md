@@ -2,8 +2,6 @@
 title: "Work Sites: Final Trip 13/14 ~ Muscle Shoals"
 date: 2026-07-01
 author: mrogers
-published: 2026-07-01T23:00:00.000Z
-updated: 2026-07-26T06:24:31.649Z
 layout: post
 ---
 
