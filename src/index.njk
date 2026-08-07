@@ -42,10 +42,20 @@ permalink: /
 
 <aside class="sidebar">
   <div class="survey">
-    <h4>July 2026 Survey</h4>
-    <p>Do the stories and examples help you see how our work impacts the region?</p>
-    <p style="margin-top:12px"><a class="button" href="#">Start survey →</a></p>
+    <h4 style="color:var(--banner);margin:0 0 10px">Gallery</h4>
+    <a href="https://photos.app.goo.gl/ARyap15E2KuczHdk7" target="_blank" rel="noopener" id="gallery-link">
+      <img id="gallery-thumb" src="" alt="Gallery photo" style="width:100%;border-radius:6px;display:block;min-height:140px;object-fit:cover;background:#eee">
+    </a>
+    <p style="margin:8px 0 0;font-size:.8rem;text-align:center"><a href="https://photos.app.goo.gl/ARyap15E2KuczHdk7" target="_blank" rel="noopener" style="color:var(--teal)">View full gallery →</a></p>
   </div>
+  <script>
+    (function(){
+      var imgs = {{ galleryImages | dump | safe }};
+      if (imgs.length) {
+        document.getElementById('gallery-thumb').src = imgs[Math.floor(Math.random() * imgs.length)];
+      }
+    })();
+  </script>
 
   <div class="events">
     <h5 style="margin-top:18px">Upcoming Events:</h5>
