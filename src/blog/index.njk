@@ -1,19 +1,23 @@
 ---
 layout: base
 title: Blog
-pagination:
-  data: collections.blog
-  size: 10
-  alias: posts
-permalink: "/blog/{% if pagination.pageNumber %}page-{{ pagination.pageNumber }}/{% endif %}index.html"
+permalink: /blog/
 ---
 
 <section class="main-col blog-page">
-  <h1>{{ title }}</h1>
-  
-  <div class="blog-list">
-    {% for post in posts %}
-      <article class="blog-post-card">
+  <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:20px">
+    <h1 style="margin:0">Blog</h1>
+    <div class="sort-buttons">
+      <span style="font-size:.85rem;color:#888;margin-right:8px">Sort:</span>
+      <button class="sort-btn active" data-sort="date-desc">Newest first</button>
+      <button class="sort-btn" data-sort="date-asc">Oldest first</button>
+      <button class="sort-btn" data-sort="alpha">A – Z</button>
+    </div>
+  </div>
+
+  <div class="blog-list" id="blog-list">
+    {% for post in collections.blog %}
+      <article class="blog-post-card" data-title="{{ post.data.title | escape }}" data-date="{{ post.data.date | htmlDateString }}">
         <header>
           <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
           <div class="post-meta">
@@ -21,34 +25,13 @@ permalink: "/blog/{% if pagination.pageNumber %}page-{{ pagination.pageNumber }}
             <span class="date">{{ post.data.date | readableDate }}</span>
           </div>
         </header>
-        
-        {% if post.data.description %}
-          <p class="post-excerpt">{{ post.data.description }}</p>
-        {% else %}
-          <p class="post-excerpt">{{ post.content | striptags | slice(0, 200) }}...</p>
-        {% endif %}
-        
+        <p class="post-excerpt">{{ post.content | striptags | truncate(200) }}</p>
         <footer>
           <a href="{{ post.url }}" class="read-more">Read full post →</a>
         </footer>
       </article>
     {% endfor %}
   </div>
-  
-  <!-- Pagination -->
-  {% if pagination.pages.length > 1 %}
-    <nav class="pagination">
-      {% if pagination.previousPageHref %}
-        <a href="{{ pagination.previousPageHref }}">← Previous</a>
-      {% endif %}
-      
-      <span class="page-info">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
-      
-      {% if pagination.nextPageHref %}
-        <a href="{{ pagination.nextPageHref }}">Next →</a>
-      {% endif %}
-    </nav>
-  {% endif %}
 </section>
 
 <aside class="sidebar">
@@ -57,3 +40,24 @@ permalink: "/blog/{% if pagination.pageNumber %}page-{{ pagination.pageNumber }}
     <p>Travel stories, gear reviews, and motorcycle adventures from the road. Follow along as Papou explores new places and experiences.</p>
   </div>
 </aside>
+
+<script>
+  const list = document.getElementById('blog-list');
+  const cards = Array.from(list.querySelectorAll('.blog-post-card'));
+
+  document.querySelectorAll('.sort-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const mode = btn.dataset.sort;
+
+      cards.sort((a, b) => {
+        if (mode === 'date-desc') return b.dataset.date.localeCompare(a.dataset.date);
+        if (mode === 'date-asc')  return a.dataset.date.localeCompare(b.dataset.date);
+        if (mode === 'alpha')     return a.dataset.title.localeCompare(b.dataset.title);
+      });
+
+      cards.forEach(c => list.appendChild(c));
+    });
+  });
+</script>
