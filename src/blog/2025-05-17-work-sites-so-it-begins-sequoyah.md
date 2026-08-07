@@ -10,7 +10,7 @@ layout: post
 <a
     href="/assets/blog-images/AVvXsEgU-IMG_0824.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -46,7 +46,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/AVvXsEgm-IMG_0824.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -58,7 +58,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0825.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -70,7 +70,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0826.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -82,7 +82,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0827.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -94,7 +94,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0828.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -106,7 +106,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0823.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
@@ -118,7 +118,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0829.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       height="320"
@@ -130,7 +130,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0830.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       height="320"
@@ -142,7 +142,7 @@ So this was the first. I plan to visit as many as I can this summer.
   <a
     href="/assets/blog-images/IMG_0831.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
-    ><img
+    target="_blank" rel="noopener noreferrer"><img
       alt=""
       border="0"
       width="320"
