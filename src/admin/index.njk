@@ -273,6 +273,8 @@ async function saveEdit(){
   var body=document.getElementById('edit-body').value;
   var fm='---\ntitle: "'+title.replace(/"/g,'\\"')+'"\ndate: '+date+'\n';
   if(author)fm+='author: '+author+'\n';
+  var editTime=document.getElementById('edit-time').value.trim();
+  if(editTime)fm+='time: '+editTime+'\n';
   fm+='layout: post\n---\n\n';
   var full=fm+body;
   document.getElementById('edit-save-btn').disabled=true;
