@@ -9,7 +9,7 @@ permalink: /blog/
     <h1 style="margin:0">Blog</h1>
     <div class="sort-buttons">
       <span style="font-size:.85rem;color:#888;margin-right:8px">Sort:</span>
-      <button class="sort-btn active" id="date-toggle" data-sort="date-desc">Oldest first</button>      <button class="sort-btn" data-sort="alpha">A – Z</button>
+      <button class="sort-btn" id="date-toggle" data-sort="date-desc">Oldest first</button>      <button class="sort-btn" data-sort="alpha">A – Z</button>
     </div>
   </div>
 
@@ -58,9 +58,8 @@ permalink: /blog/
     cards.forEach(c => list.appendChild(c));
   }
 
-  // Apply newest-first on page load and ensure button is active
+  // Apply newest-first on page load
   sortCards('date-desc');
-  toggle.classList.add('active');
 
   toggle.addEventListener('click', () => {
     currentSort = (currentSort === 'date-desc') ? 'date-asc' : 'date-desc';
