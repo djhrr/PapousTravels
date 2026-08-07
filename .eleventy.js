@@ -9,9 +9,11 @@ module.exports = function(eleventyConfig) {
     return collectionApi
       .getFilteredByGlob("src/blog/*.md")
       .sort((a, b) => {
-        const aStr = a.data.date + (a.data.time ? 'T' + a.data.time : 'T00:00');
-        const bStr = b.data.date + (b.data.time ? 'T' + b.data.time : 'T00:00');
-        return new Date(bStr) - new Date(aStr);
+        const aDate = new Date(a.data.date);
+        const bDate = new Date(b.data.date);
+        if (a.data.time) { aDate.setHours(...a.data.time.split(':').map(Number)); }
+        if (b.data.time) { bDate.setHours(...b.data.time.split(':').map(Number)); }
+        return bDate - aDate;
       });
   });
   

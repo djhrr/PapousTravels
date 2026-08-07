@@ -58,8 +58,9 @@ permalink: /blog/
     cards.forEach(c => list.appendChild(c));
   }
 
-  // Apply newest-first on page load
+  // Apply newest-first on page load and ensure button is active
   sortCards('date-desc');
+  toggle.classList.add('active');
 
   toggle.addEventListener('click', () => {
     currentSort = (currentSort === 'date-desc') ? 'date-asc' : 'date-desc';
