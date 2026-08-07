@@ -5,28 +5,34 @@ permalink: /blog/
 ---
 
 <section class="main-col blog-page">
-  <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:20px">
+  <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:24px">
     <h1 style="margin:0">Blog</h1>
     <div class="sort-buttons">
       <span style="font-size:.85rem;color:#888;margin-right:8px">Sort:</span>
-      <button class="sort-btn" id="date-toggle" data-sort="date-desc">Oldest first</button>      <button class="sort-btn" data-sort="alpha">A – Z</button>
+      <button class="sort-btn" id="date-toggle" data-sort="date-desc">Oldest first</button>
+      <button class="sort-btn" data-sort="alpha">A – Z</button>
     </div>
   </div>
 
-  <div class="blog-list" id="blog-list">
+  <div class="blog-grid" id="blog-list">
     {% for post in collections.blog %}
-      <article class="blog-post-card" data-title="{{ post.data.title | escape }}" data-date="{{ post.data.date | htmlDateString }}" data-time="{{ post.data.time | timeString or '00:00' }}">
-        <header>
-          <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      {% set thumb = post.content | firstImage %}
+      <article class="blog-card" data-title="{{ post.data.title | escape }}" data-date="{{ post.data.date | htmlDateString }}" data-time="{{ post.data.time | timeString or '00:00' }}">
+        <a href="{{ post.url }}" class="blog-card-img-link">
+          {% if thumb %}
+            <img class="blog-card-img" src="{{ thumb }}" alt="{{ post.data.title | escape }}" loading="lazy">
+          {% else %}
+            <div class="blog-card-img-placeholder">📷</div>
+          {% endif %}
+        </a>
+        <div class="blog-card-body">
           <div class="post-meta">
-            <span class="author">By {{ post.data.author or "Papou" }}</span>
             <span class="date">{{ post.data.date | readableDate }}{% if post.data.time %} at {{ post.data.time | timeString }}{% endif %}</span>
           </div>
-        </header>
-        <p class="post-excerpt">{{ post.content | striptags | truncate(200) }}</p>
-        <footer>
+          <h2 class="blog-card-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+          <p class="blog-card-excerpt">{{ post.content | firstParagraph }}</p>
           <a href="{{ post.url }}" class="read-more">Read full post →</a>
-        </footer>
+        </div>
       </article>
     {% endfor %}
   </div>
@@ -41,11 +47,8 @@ permalink: /blog/
 
 <script>
   const list = document.getElementById('blog-list');
-  const cards = Array.from(list.querySelectorAll('.blog-post-card'));
+  const cards = Array.from(list.querySelectorAll('.blog-card'));
   const toggle = document.getElementById('date-toggle');
-
-  // currentSort tracks what is currently displayed
-  // Start: newest first. Button label shows what clicking WILL switch to.
   let currentSort = 'date-desc';
 
   function sortCards(mode) {
@@ -58,7 +61,6 @@ permalink: /blog/
     cards.forEach(c => list.appendChild(c));
   }
 
-  // Apply newest-first on page load
   sortCards('date-desc');
 
   toggle.addEventListener('click', () => {
