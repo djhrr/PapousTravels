@@ -2,8 +2,6 @@
 title: "Work Sites: Final Trip 11/14 ~ Colbert"
 date: 2026-07-01
 author: mrogers
-published: 2026-07-01T16:30:00.000Z
-updated: 2026-07-26T06:25:51.325Z
 layout: post
 ---
 
