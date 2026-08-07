@@ -347,7 +347,7 @@ a.button{display:inline-block;background:var(--teal);color:#fff;padding:8px 12px
 :focus{outline:3px solid rgba(30,80,32,0.2);outline-offset:2px}
 
 /* ── YouTube Section ─────────────────────────────── */
-.youtube-section h3 { font-size: 1.1rem; color: var(--navy); }
+.youtube-section h3 { font-size: 1.1rem; color: var(--banner); }
 .yt-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .yt-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,.08); transition: transform .15s; }
 .yt-card:hover { transform: translateY(-3px); }
