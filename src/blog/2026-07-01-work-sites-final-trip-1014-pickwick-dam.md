@@ -2,8 +2,6 @@
 title: "Work Sites: Final Trip 10/14 ~ Pickwick Dam"
 date: 2026-07-01
 author: mrogers
-published: 2026-07-01T14:30:00.000Z
-updated: 2026-07-26T06:25:39.225Z
 layout: post
 ---
 
