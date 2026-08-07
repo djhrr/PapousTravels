@@ -7,7 +7,7 @@ updated: 2025-07-22T03:15:28.630Z
 layout: post
 ---
 
-<a href="/assets/blog-images/s1118-IMG_1243.JPEG"><img border="0" data-original-height="864" data-original-width="1118" height="246" src="/assets/blog-images/w320-h24-IMG_1243.JPEG" width="320" /></a>
+<a href="/assets/blog-images/IMG_1243.JPEG"><img border="0" data-original-height="864" data-original-width="1118" height="246" src="/assets/blog-images/IMG_1243.JPEG" width="320" /></a>
 
 <p class="MsoBodyText">I’m going to start with some honesty, because this is
 something every parent goes through. Even yours… Kids. I’m just at the point
@@ -21,7 +21,7 @@ always gets a chuckle out of me.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="/assets/blog-images/IMG_1246.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="870" data-original-width="1160" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1246.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="870" data-original-width="1160" height="300" src="/assets/blog-images/IMG_1246.JPEG" width="400" /></a>
 <i style="mso-bidi-font-style: normal;">
 </i>
 
@@ -50,7 +50,7 @@ multifaceted mission.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1257.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1257.JPEG" width="400" /></a>
 <i>Here are some more reading opportunities on Nickajack Dam and lake. 
 
 <i>[Site 1 ](https://www.tva.com/energy/our-power-system/hydroelectric/nickajack) |  </i><i>[Site 2](https://tennesseerivervalleygeotourism.org/entries/tva-nickajack-dam-and-reservoir/3c9e64bb-5573-4e88-933b-227514820399)  | </i><i>[Site 3](https://outdoorchattanooga.com/nickajack-lake/)  </i></i><i>
@@ -64,7 +64,7 @@ today.
 
 <p class="MsoBodyText">
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1247.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1247.JPEG" width="400" /></a>
 
 <p class="MsoBodyText">But here’s what ChatGPT had to say about the Fire Training Center:<o:p></o:p>
 
@@ -79,7 +79,7 @@ commitment to safety and operational excellence.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1254.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1254.JPEG" width="480" /></a>
 <i>
 </i>
 
@@ -94,7 +94,7 @@ I’d be all for that. I hate to see a site with so much potential sit idle.<o:p
 
 <span><!--more--></span><p class="MsoBodyText">
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1263.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1263.JPEG" width="400" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">Here’s ChatGPT’s take on Bellefonte:<o:p></o:p>
@@ -118,12 +118,12 @@ dreaming.<o:p></o:p></i></span>
 
 <p class="MsoBodyText"><span style="mso-bidi-font-style: italic;"></span>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1264.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1264.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1268.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
+<a href="/assets/blog-images/IMG_1269.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1269.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1271.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1271.JPEG" width="400" /></a>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1273.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1273.JPEG" width="400" /></a>
 <i>
 </i>
 
@@ -131,7 +131,7 @@ dreaming.<o:p></o:p></i></span>
 purposes I must point out I had to have used a selfie stick to get the shots
 beyond the gate. I am a good person!</span>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText">
+<a href="/assets/blog-images/IMG_1272.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1272.JPEG" width="400" /></a><p class="MsoBodyText">
 
 <p class="MsoBodyText">
 
@@ -142,20 +142,20 @@ Nickajack Dam for a few more shots. Yes, I got wet. Yes, it was refreshing.
 Yes, I get nervous riding on wet roads, yes I made a complete fool out of myself, yes, I muttered, “don’t drop it” the whole time. Especially when that cop was
 behind me mocking my ever mistake! But I made it through rattled but just fine
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText">
+<a href="/assets/blog-images/IMG_1278.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1281.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1281.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1283.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1283.JPEG" width="400" /></a><p class="MsoBodyText">
 
 <p class="MsoBodyText" style="text-align: center;">I get such a charge out of seeing the workings of these electrical jungles! 
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1292.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1292.JPEG" width="480" /></a>
 <span><!--more--></span>
 <p class="MsoBodyText">Next was a surprise. I was on my way to the next dam when
 I ended up within a block of—believe it or not—my home office! Couldn’t resist
 snapping a pic with my bike, and wouldn’t you know it? I can see my desk window
 right behind it. This photo’s already on my desktop.
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1294.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1294.JPEG" width="640" /></a>
 <p class="MsoBodyText">I skipped the AI history on my office—too much potential
 for controversy and politics there. Onward to Chickamauga Dam!
 
@@ -167,7 +167,7 @@ out. I’ve driven over it countless times. It’s one of the few TVA dams you c
 drive across—Watts Bar being another. I think there might be one or two near
 Browns Ferry, but don’t quote me on that.<o:p></o:p>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1303.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1303.JPEG" width="400" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">I’ve watched the progress on the new lock over the years,
@@ -184,7 +184,7 @@ commerce and regional growth.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1297.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1297.JPEG" width="400" /></a>
 <i>
 </i>
 
@@ -199,8 +199,8 @@ Either way here are some great sites.
 [Site 1](https://www.lrd.usace.army.mil/Missions/Projects/Article/3812399/chickamauga-lock-replacement-project/) | [Site 2 ](https://www.tva.com/environment/recreation/locking-through)| [Site 3 ](https://www.shimmick.com/portfolio/chickamauga-lock-replacement/)| [Site 4](https://www.waterwayguide.com/lock/4-232/chickamauga-lock-dam)
 <span><!--more--></span>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
+<a href="/assets/blog-images/IMG_1305.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1305.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1308.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1308.JPEG" width="300" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">Here’s what ChatGPT shared about Central Labs:<o:p></o:p>
@@ -219,7 +219,7 @@ science and innovation in utility operations.<o:p></o:p></i>
 
 <p class="MsoBodyText"><span style="mso-bidi-font-style: italic;"><o:p> </o:p></span>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
+<a href="/assets/blog-images/IMG_1309.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1309.JPEG" width="300" /></a>
 [Site 1](https://www.facebook.com/pages/TVA-Central-Lab/205389462924817) | [Site 2](https://www.tva.com/the-powerhouse/stories/frontlines-of-progress) | [Site 3](https://www.waterwayguide.com/lock/4-232/chickamauga-lock-dam)<span><!--more--></span>
 
 <p class="MsoBodyText" style="text-align: center;">Finally, I made my way to Chickamauga Dam itself. It’s as
@@ -227,18 +227,18 @@ impressive as Watts Bar, no doubt. What caught my attention was all the folks
 fishing right next to the powerhouse outlet. A lot of people do it, so clearly,
 there’s something to it. <o:p></o:p>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1311.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1311.JPEG" width="400" /></a>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1318.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1318.JPEG" width="400" /></a>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1322.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1322.JPEG" width="400" /></a>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText" style="text-align: left;">The Chickamauga Dam Railroad Bridge—or the train bridge as I call it. Has a house-like structure on top, ever wonder what it is? 
+<a href="/assets/blog-images/IMG_1331.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1331.JPEG" width="400" /></a><p class="MsoBodyText" style="text-align: left;">The Chickamauga Dam Railroad Bridge—or the train bridge as I call it. Has a house-like structure on top, ever wonder what it is? 
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1326.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1326.JPEG" width="400" /></a>
 
 That covers the machinery that lifts the span when taller vessels come through. But the bridge.. It’s a sight when a train crosses, and even better when your bike’s in the foreground. They call this the Riverwalk at the Dam and it is an amazing place to visit, here it also brought me one of my all-time favorite bike photos. I literally stopped in the road, kickstand down, phone out, and laid right on the ground to get the shot. Totally worth it. I might have looked ridiculous, but hey, Gen X—posing awkwardly since 1974.
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1339.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1339.JPEG" width="640" /></a>
 <p class="MsoBodyText">There is so much going on in the background, I plan to do things with this image in the near future. Wall art, puzzle or something.
 
 <p class="MsoBodyText">Here’s ChatGPT’s insight on the bridge:<o:p></o:p>
@@ -267,7 +267,7 @@ rubber side down, and never miss a chance for that perfect bike pic.<o:p></o:p>
 
 Another something new at the end. A comprehensive look at the ride in full! Wow eight and a half hours total!
 
-<a href="/assets/blog-images/s1227-7.20.25.JPG"><img border="0" data-original-height="789" data-original-width="1227" height="412" src="/assets/blog-images/w640-h41-7.20.25.JPG" width="640" /></a>
+<a href="/assets/blog-images/7.20.25.JPG"><img border="0" data-original-height="789" data-original-width="1227" height="412" src="/assets/blog-images/7.20.25.JPG" width="640" /></a>
 <span><!--more--></span>
 <iframe allowfullscreen="" class="BLOG_video_class" height="355" src="https://www.youtube.com/embed/o5nITVG1DCs" width="429" youtube-src-id="o5nITVG1DCs"></iframe>
 

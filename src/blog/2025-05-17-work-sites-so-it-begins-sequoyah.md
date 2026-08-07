@@ -8,7 +8,7 @@ layout: post
 ---
 
 <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
+    href="/assets/blog-images/AVvXsEgU-IMG_0824.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
     ><img
       alt=""
@@ -16,7 +16,7 @@ layout: post
       width="320"
       data-original-height="1536"
       data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
+      src="/assets/blog-images/AVvXsEgU-IMG_0824.JPEG"
   /></a>
 
   The first work site destination is also the closest. Sequoyah. I work on so
@@ -44,7 +44,67 @@ So this was the first. I plan to visit as many as I can this summer.
 <p />
 
   <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
+    href="/assets/blog-images/AVvXsEgm-IMG_0824.JPEG"
+    style="display: block; padding: 1em 0; text-align: center; "
+    ><img
+      alt=""
+      border="0"
+      width="320"
+      data-original-height="1536"
+      data-original-width="2048"
+      src="/assets/blog-images/AVvXsEgm-IMG_0824.JPEG"
+  /></a>
+
+  <a
+    href="/assets/blog-images/IMG_0825.JPEG"
+    style="display: block; padding: 1em 0; text-align: center; "
+    ><img
+      alt=""
+      border="0"
+      width="320"
+      data-original-height="1536"
+      data-original-width="2048"
+      src="/assets/blog-images/IMG_0825.JPEG"
+  /></a>
+
+  <a
+    href="/assets/blog-images/IMG_0826.JPEG"
+    style="display: block; padding: 1em 0; text-align: center; "
+    ><img
+      alt=""
+      border="0"
+      width="320"
+      data-original-height="1536"
+      data-original-width="2048"
+      src="/assets/blog-images/IMG_0826.JPEG"
+  /></a>
+
+  <a
+    href="/assets/blog-images/IMG_0827.JPEG"
+    style="display: block; padding: 1em 0; text-align: center; "
+    ><img
+      alt=""
+      border="0"
+      width="320"
+      data-original-height="1536"
+      data-original-width="2048"
+      src="/assets/blog-images/IMG_0827.JPEG"
+  /></a>
+
+  <a
+    href="/assets/blog-images/IMG_0828.JPEG"
+    style="display: block; padding: 1em 0; text-align: center; "
+    ><img
+      alt=""
+      border="0"
+      width="320"
+      data-original-height="1536"
+      data-original-width="2048"
+      src="/assets/blog-images/IMG_0828.JPEG"
+  /></a>
+
+  <a
+    href="/assets/blog-images/IMG_0823.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
     ><img
       alt=""
@@ -56,67 +116,7 @@ So this was the first. I plan to visit as many as I can this summer.
   /></a>
 
   <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
-    style="display: block; padding: 1em 0; text-align: center; "
-    ><img
-      alt=""
-      border="0"
-      width="320"
-      data-original-height="1536"
-      data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
-  /></a>
-
-  <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
-    style="display: block; padding: 1em 0; text-align: center; "
-    ><img
-      alt=""
-      border="0"
-      width="320"
-      data-original-height="1536"
-      data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
-  /></a>
-
-  <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
-    style="display: block; padding: 1em 0; text-align: center; "
-    ><img
-      alt=""
-      border="0"
-      width="320"
-      data-original-height="1536"
-      data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
-  /></a>
-
-  <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
-    style="display: block; padding: 1em 0; text-align: center; "
-    ><img
-      alt=""
-      border="0"
-      width="320"
-      data-original-height="1536"
-      data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
-  /></a>
-
-  <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
-    style="display: block; padding: 1em 0; text-align: center; "
-    ><img
-      alt=""
-      border="0"
-      width="320"
-      data-original-height="1536"
-      data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
-  /></a>
-
-  <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
+    href="/assets/blog-images/IMG_0829.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
     ><img
       alt=""
@@ -124,11 +124,11 @@ So this was the first. I plan to visit as many as I can this summer.
       height="320"
       data-original-height="2048"
       data-original-width="1536"
-      src="/assets/blog-images/IMG_0823.JPEG"
+      src="/assets/blog-images/IMG_0829.JPEG"
   /></a>
 
   <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
+    href="/assets/blog-images/IMG_0830.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
     ><img
       alt=""
@@ -136,11 +136,11 @@ So this was the first. I plan to visit as many as I can this summer.
       height="320"
       data-original-height="2048"
       data-original-width="1536"
-      src="/assets/blog-images/IMG_0823.JPEG"
+      src="/assets/blog-images/IMG_0830.JPEG"
   /></a>
 
   <a
-    href="/assets/blog-images/GreatFallsDam0__8_.JPEG"
+    href="/assets/blog-images/IMG_0831.JPEG"
     style="display: block; padding: 1em 0; text-align: center; "
     ><img
       alt=""
@@ -148,5 +148,5 @@ So this was the first. I plan to visit as many as I can this summer.
       width="320"
       data-original-height="1536"
       data-original-width="2048"
-      src="/assets/blog-images/IMG_0823.JPEG"
+      src="/assets/blog-images/IMG_0831.JPEG"
   /></a>

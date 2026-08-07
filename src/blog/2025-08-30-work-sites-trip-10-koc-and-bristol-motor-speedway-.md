@@ -12,7 +12,7 @@ hundreds of miles apart? Well with a monstrous 2 day 16 stop site binge of
 course! To say I bit off a lot is an understatement. I cannot say too much
 since I made it, but it was close!
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1783.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1783.JPEG" width="640" /></a>
 
 <p class="MsoNormal"><o:p> </o:p>
 
@@ -21,7 +21,7 @@ The ying to my office Chattanooga Office Complex. COC yang. KOC, or the
 Knoxville Office Complex. Of course I was not able to spend time inside but the
 outside was mesmerizing. <o:p></o:p>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1741.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1741.JPEG" width="640" /></a>
 <p class="MsoNormal">
 
 <p class="MsoNormal">I’m told that it was finished in 1976 when I was 2 years
@@ -31,7 +31,7 @@ one off to UT and the county. <o:p></o:p>
 
 <p class="MsoNormal"><o:p> </o:p>
 
-<a href="/assets/blog-images/s895-IMG_1745.1.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="895" height="314" src="/assets/blog-images/w640-h31-IMG_1745.1.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1745.1.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="895" height="314" src="/assets/blog-images/IMG_1745.1.JPEG" width="640" /></a>
 
 <span style="font-family: "Calibri",sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Skipping past the hotel and first two sites,
 (more to come on Boone and Ft. Patrick Henry) I took the opportunity while up
@@ -43,11 +43,11 @@ know, a few weeks after my visit they setup a baseball field in the middle of Th
 Valley?!? Well they did just that! Amazing right?! 
 
 Well enjoy the pics I got while there! </span><span style="font-family: "Calibri",sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">
-</span><a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+</span><a href="/assets/blog-images/IMG_1777.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1777.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1781.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1781.JPEG" width="640" /></a>
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" /></a>
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1790.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1790.JPEG" width="640" /></a>
+<a href="/assets/blog-images/IMG_1792.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_1792.JPEG" width="480" /></a>
+<a href="/assets/blog-images/IMG_1794.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1794.JPEG" width="640" /></a>
 <span style="font-family: "Calibri",sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">
 </span>

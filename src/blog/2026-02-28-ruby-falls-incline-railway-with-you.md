@@ -10,7 +10,7 @@ layout: post
 Ruby Falls & the Lookout Mountain Incline Railway — a magical day on the mountain with you!
 
 <a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;">
-<img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" />
+<img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/Image_94545431.jpg" width="640" />
 </a>
 
 <p class="MsoNormal">A magical journey deep inside one of America’s most stunning underground waterfalls and then up Lookout Mountain on the famous Incline Railway. Perfect half-day adventure — and I got to share it with you!
@@ -21,22 +21,22 @@ Ruby Falls & the Lookout Mountain Incline Railway — a magical day on the mount
 
 <p class="MsoNormal">Ruby Falls!
 
-<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;">
-<img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" />
+<a href="/assets/blog-images/IMG_0222.JPEG" style="margin-left: 1em; margin-right: 1em;">
+<img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/IMG_0222.JPEG" width="480" />
 </a>
 
   Ruby Falls is one of those rare natural wonders that feels almost otherworldly. This 145-foot underground waterfall sits 260 feet beneath the surface of Lookout Mountain inside a beautiful limestone cave system — and it’s the tallest and deepest underground waterfall open to the public in the United States. Discovered accidentally in 1928 by Leo Lambert while drilling for an elevator shaft, he named it after his wife Ruby when he brought her back to see it.
 
 <a href="/assets/blog-images/Image_94545431.jpg" style="margin-left: 1em; margin-right: 1em;">
-<img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" />
+<img border="0" data-original-height="1596" data-original-width="2128" height="480" src="/assets/blog-images/Image_94545431.jpg" width="640" />
 </a>
 
 The guided cave tour takes you along easy walking paths past incredible stalactites, stalagmites, and flowstone formations. The grand finale is standing in front of the thundering Ruby Falls itself, lit in ever-changing colors. The cave stays a steady ~60°F year-round — bring a light jacket!
 
 <h2 style="text-align: center;">Riding the Famous Incline Railway</h2>
 
-<a href="/assets/blog-images/IMG_3644.JPEG" style="margin-left: 1em; margin-right: 1em;">
-<img border="0" data-original-height="4032" data-original-width="3024" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" />
+<a href="/assets/blog-images/IMG_3210.JPG" style="margin-left: 1em; margin-right: 1em;">
+<img border="0" data-original-height="4032" data-original-width="3024" height="400" src="/assets/blog-images/IMG_3210.JPG" width="300" />
 </a>
 
 <p class="MsoNormal">After the cave, we hopped on one of the world’s steepest passenger railways — the historic Lookout Mountain Incline Railway. Operating since 1895, this funicular climbs at a jaw-dropping 72.7% grade. The ride is about a mile long and takes roughly 10 minutes each way. As the yellow car ascends, you get sweeping views of Chattanooga, the Tennessee River, and the whole valley unfolding below you.
