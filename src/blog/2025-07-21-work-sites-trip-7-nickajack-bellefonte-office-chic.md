@@ -7,7 +7,7 @@ updated: 2025-07-22T03:15:28.630Z
 layout: post
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_CqlPB15kzODcy927caUKAUc8p5jsZwSdg92cHNv6zjD0JNYqwQBESBspQgMOGnFW9xrnbZ0DjLQ_ESR0_I28a13zTq_V9DEeg0B2V0Rvge9GvzVt16Pt56iyOo4-6tPiZYskMP2sbR3DMp2bX_qoFcxK445xJYQFMaPyGSaNZmDgQKj-S0jHssaHkcw/s1118/IMG_1243.JPEG"><img border="0" data-original-height="864" data-original-width="1118" height="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_CqlPB15kzODcy927caUKAUc8p5jsZwSdg92cHNv6zjD0JNYqwQBESBspQgMOGnFW9xrnbZ0DjLQ_ESR0_I28a13zTq_V9DEeg0B2V0Rvge9GvzVt16Pt56iyOo4-6tPiZYskMP2sbR3DMp2bX_qoFcxK445xJYQFMaPyGSaNZmDgQKj-S0jHssaHkcw/w320-h246/IMG_1243.JPEG" width="320" /></a>
+<a href="/assets/blog-images/s1118-IMG_1243.JPEG"><img border="0" data-original-height="864" data-original-width="1118" height="246" src="/assets/blog-images/w320-h24-IMG_1243.JPEG" width="320" /></a>
 
 <p class="MsoBodyText">I’m going to start with some honesty, because this is
 something every parent goes through. Even yours… Kids. I’m just at the point
@@ -21,7 +21,7 @@ always gets a chuckle out of me.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-rcYv5OVOGOhfS8d9rm_Lene1Uq9uJh3W3B7JoFsHFze_wuJFiiZDJnLkX7plXkbnLRz526hAK10atPvKz1gU0YHx3x796FIfH4wZFOUKIgJpoIzbjlFwxnhw7r2k3sW7_vJ-jkn0DnXxb8GJ3E11u64fEcMZdNVf4_ZHYkCzDKUb0-xzyLBN5y-kbUo/s1160/IMG_1246.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="870" data-original-width="1160" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-rcYv5OVOGOhfS8d9rm_Lene1Uq9uJh3W3B7JoFsHFze_wuJFiiZDJnLkX7plXkbnLRz526hAK10atPvKz1gU0YHx3x796FIfH4wZFOUKIgJpoIzbjlFwxnhw7r2k3sW7_vJ-jkn0DnXxb8GJ3E11u64fEcMZdNVf4_ZHYkCzDKUb0-xzyLBN5y-kbUo/w400-h300/IMG_1246.JPEG" width="400" /></a>
+<a href="/assets/blog-images/IMG_1246.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="870" data-original-width="1160" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <i style="mso-bidi-font-style: normal;">
 </i>
 
@@ -50,7 +50,7 @@ multifaceted mission.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhdasGRMYfKaHQaC1IC8qiv3j-JVqMRkw9Q4tt3ey-sXCnVrGbrydsKrLxaUZgLiwSe0X32JrZUSMwOVVygESSop4NxsSqp0ArLe7B5NI4pOVREESYLVV5hOXM0MRGWqxqDEVrW69Pmw7NABZLQn8YJfATyEnjH4ciM0yJ-G9q08L0QozhGa-PucayLg/s2048/IMG_1257.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhdasGRMYfKaHQaC1IC8qiv3j-JVqMRkw9Q4tt3ey-sXCnVrGbrydsKrLxaUZgLiwSe0X32JrZUSMwOVVygESSop4NxsSqp0ArLe7B5NI4pOVREESYLVV5hOXM0MRGWqxqDEVrW69Pmw7NABZLQn8YJfATyEnjH4ciM0yJ-G9q08L0QozhGa-PucayLg/w400-h300/IMG_1257.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <i>Here are some more reading opportunities on Nickajack Dam and lake. 
 
 <i>[Site 1 ](https://www.tva.com/energy/our-power-system/hydroelectric/nickajack) |  </i><i>[Site 2](https://tennesseerivervalleygeotourism.org/entries/tva-nickajack-dam-and-reservoir/3c9e64bb-5573-4e88-933b-227514820399)  | </i><i>[Site 3](https://outdoorchattanooga.com/nickajack-lake/)  </i></i><i>
@@ -64,7 +64,7 @@ today.
 
 <p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJekSGwovgQuiHujTXUc_61DL74gJgxKX5ZT01sKjPIkPXZHeaGem2wGCcVcX0Il6JzpHkqohSaKTMVKBYm79f7q6yhWhaVMJlYo-pewNFVJrFn5SG8dJasMj7m9mn5QR20Bw3962PEymR8RQayundEZtHSl-fCmPtgp3rdKoPBX4b3pfCycfwI15hDwo/s2048/IMG_1247.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJekSGwovgQuiHujTXUc_61DL74gJgxKX5ZT01sKjPIkPXZHeaGem2wGCcVcX0Il6JzpHkqohSaKTMVKBYm79f7q6yhWhaVMJlYo-pewNFVJrFn5SG8dJasMj7m9mn5QR20Bw3962PEymR8RQayundEZtHSl-fCmPtgp3rdKoPBX4b3pfCycfwI15hDwo/w400-h300/IMG_1247.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
 <p class="MsoBodyText">But here’s what ChatGPT had to say about the Fire Training Center:<o:p></o:p>
 
@@ -79,7 +79,7 @@ commitment to safety and operational excellence.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqA82uY1d2KH-EfosLRGsIDt4sQz3UVnZKaW8tvn677nlA9c7lCHodibU8ewaNXWQtQM2Lt3rGxuWMtmNJWxIg_gdneRkx_492zaTJaWp4bD6xObkujz9poP19owJ1a-Sa1nzhs9Hu0tplkew-zNmBSMPQDSzwlUFe_QCRGB_MRsAE51CY2QQiFyk5eZQ/s2048/IMG_1254.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqA82uY1d2KH-EfosLRGsIDt4sQz3UVnZKaW8tvn677nlA9c7lCHodibU8ewaNXWQtQM2Lt3rGxuWMtmNJWxIg_gdneRkx_492zaTJaWp4bD6xObkujz9poP19owJ1a-Sa1nzhs9Hu0tplkew-zNmBSMPQDSzwlUFe_QCRGB_MRsAE51CY2QQiFyk5eZQ/w480-h640/IMG_1254.JPEG" width="480" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" /></a>
 <i>
 </i>
 
@@ -94,7 +94,7 @@ I’d be all for that. I hate to see a site with so much potential sit idle.<o:p
 
 <span><!--more--></span><p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKA_aQLKdPhtEEc4KA5qtD-03MoaRi0U6UxGX_n9ouFNvTpZyAvDGusDOjb9HZcNmjEOxoDb_j8s0TFs611A_QMlTycL59RFBAH6th_SDcgOh6mLJYMPGQpYykVgB4GtmIDGwQd3KGwRl_XZgBh8BQ2vyqSXKJ5tNoiAPDOZCmLoTyssAi4gl7yabenZc/s2048/IMG_1263.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKA_aQLKdPhtEEc4KA5qtD-03MoaRi0U6UxGX_n9ouFNvTpZyAvDGusDOjb9HZcNmjEOxoDb_j8s0TFs611A_QMlTycL59RFBAH6th_SDcgOh6mLJYMPGQpYykVgB4GtmIDGwQd3KGwRl_XZgBh8BQ2vyqSXKJ5tNoiAPDOZCmLoTyssAi4gl7yabenZc/w400-h300/IMG_1263.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">Here’s ChatGPT’s take on Bellefonte:<o:p></o:p>
@@ -118,12 +118,12 @@ dreaming.<o:p></o:p></i></span>
 
 <p class="MsoBodyText"><span style="mso-bidi-font-style: italic;"></span>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBc6qiwzEbHgP9mdsZy7n3tDWGVo831CJmOOYPdO5l0GWlBAk0c2tZieWVLaTAgepkxsu8DmLRQCPXgN4jCnb-FWVTy18F5K65EBhtYDN0pFrA4xg2HDvwB3NzD0ZimGuxsH96uLy_Zcq3GRGgSqCCEuCCGpS4_ZSwf3PgAYzPoe-RLoKeuV_-L8kwz7U/s2048/IMG_1264.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBc6qiwzEbHgP9mdsZy7n3tDWGVo831CJmOOYPdO5l0GWlBAk0c2tZieWVLaTAgepkxsu8DmLRQCPXgN4jCnb-FWVTy18F5K65EBhtYDN0pFrA4xg2HDvwB3NzD0ZimGuxsH96uLy_Zcq3GRGgSqCCEuCCGpS4_ZSwf3PgAYzPoe-RLoKeuV_-L8kwz7U/w400-h300/IMG_1264.JPEG" width="400" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa55Qwp_7w0GmZtYJm5IPuYz_jWiyOxZsjesHywKfDWs9IczhUeH8OxSV2ht9-Eg6dFgejlcmImkw8adyC9CxN6WLlHkZokvYfz0xoltbPEKTc6txayongawaho1X2pTjXsyrLXtdAGyRQEDrasjzl0hHeEpRr-TatowqJZRsCSqFpb7aJZ3V2Hf6umY/s2048/IMG_1268.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa55Qwp_7w0GmZtYJm5IPuYz_jWiyOxZsjesHywKfDWs9IczhUeH8OxSV2ht9-Eg6dFgejlcmImkw8adyC9CxN6WLlHkZokvYfz0xoltbPEKTc6txayongawaho1X2pTjXsyrLXtdAGyRQEDrasjzl0hHeEpRr-TatowqJZRsCSqFpb7aJZ3V2Hf6umY/w300-h400/IMG_1268.JPEG" width="300" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVabpC6__o8bnsTy6g7x-V98eFXtKH22q9l-j8-S3uvHw282VXS4Q7jnnS61bvd_I31yCLtgLLrHiveX1qAK1F_5kOBasJ688mBUyXnAEZ4Cl9Vu61faDptFeeMg_DPggeZmLIP_RZoQAa2THKPZXfFosmsBXXQu5Fe_AEa_he36w3P2ERguoXbF18Dg/s2048/IMG_1269.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVabpC6__o8bnsTy6g7x-V98eFXtKH22q9l-j8-S3uvHw282VXS4Q7jnnS61bvd_I31yCLtgLLrHiveX1qAK1F_5kOBasJ688mBUyXnAEZ4Cl9Vu61faDptFeeMg_DPggeZmLIP_RZoQAa2THKPZXfFosmsBXXQu5Fe_AEa_he36w3P2ERguoXbF18Dg/w400-h300/IMG_1269.JPEG" width="400" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2P84d0AcOI2cWKrvFC1-VfiD1I8Frt4XJ5BCHAmq296uANzL5dzlmsKTd9tPvqaxQbw-IwwdT_NXRoO6IKXGaYykPt3Kh9FQnl47Jz6JJfHJJ-cpxDRloKp9-fov5yKdHlORWobVF7QKgtwbFzGXWSWo86puHjcWgLG0wUxmZWqej9eG-ex0DRCO2CJs/s2048/IMG_1271.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2P84d0AcOI2cWKrvFC1-VfiD1I8Frt4XJ5BCHAmq296uANzL5dzlmsKTd9tPvqaxQbw-IwwdT_NXRoO6IKXGaYykPt3Kh9FQnl47Jz6JJfHJJ-cpxDRloKp9-fov5yKdHlORWobVF7QKgtwbFzGXWSWo86puHjcWgLG0wUxmZWqej9eG-ex0DRCO2CJs/w400-h300/IMG_1271.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3SbWenoZo1znfgbEXurpyKcXlJ1THNbK0HzadK5G0sHm9gZfWxye85yAGjgRJaoHleSPTKBYQSiZOPBINqsBvWLpfTMIGKRpc8b1XEzhYEu9APGgsPVd0YjweK3O_b5ENERgcwYI-x3MURwdOutJ8zhGarEkXfLWYxFxppivC4j7kT7OyrYkXJso8gU/s2048/IMG_1273.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3SbWenoZo1znfgbEXurpyKcXlJ1THNbK0HzadK5G0sHm9gZfWxye85yAGjgRJaoHleSPTKBYQSiZOPBINqsBvWLpfTMIGKRpc8b1XEzhYEu9APGgsPVd0YjweK3O_b5ENERgcwYI-x3MURwdOutJ8zhGarEkXfLWYxFxppivC4j7kT7OyrYkXJso8gU/w400-h300/IMG_1273.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <i>
 </i>
 
@@ -131,7 +131,7 @@ dreaming.<o:p></o:p></i></span>
 purposes I must point out I had to have used a selfie stick to get the shots
 beyond the gate. I am a good person!</span>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzdohvnR7-F4JTgzQ9y0eQ-WzChQc9-YWdcZMm6qV3IWOvC5XxP6YrLjGbLVlCd8lhbWvtwzHPxJWF6xluknjxmltpPa5_qkx5fmQ3e_4unWtjxXQj2Rbm_w7T5ppKJoXfUGc8Hp8OTJ_tsgoe9yciuhUOIMgNyWrzswfPwyo2OXxkO_DcNFQ6ZX-TI1M/s2048/IMG_1272.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzdohvnR7-F4JTgzQ9y0eQ-WzChQc9-YWdcZMm6qV3IWOvC5XxP6YrLjGbLVlCd8lhbWvtwzHPxJWF6xluknjxmltpPa5_qkx5fmQ3e_4unWtjxXQj2Rbm_w7T5ppKJoXfUGc8Hp8OTJ_tsgoe9yciuhUOIMgNyWrzswfPwyo2OXxkO_DcNFQ6ZX-TI1M/w400-h300/IMG_1272.JPEG" width="400" /></a><p class="MsoBodyText">
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText">
 
 <p class="MsoBodyText">
 
@@ -142,20 +142,20 @@ Nickajack Dam for a few more shots. Yes, I got wet. Yes, it was refreshing.
 Yes, I get nervous riding on wet roads, yes I made a complete fool out of myself, yes, I muttered, “don’t drop it” the whole time. Especially when that cop was
 behind me mocking my ever mistake! But I made it through rattled but just fine
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0hz8XXS7B5o3bxe-0DsiuYd8301UUCaVlKEpzeSsyFB-PdV-MOzW_Z8vuHMPmKd1CphfqFhQYn0SQzJKhrM9XizfKZD-ciYaOBd2FVhdBUDzcGCSFlIM5hklBEOfuSjTZda_hxQzJ0d4hQFkGi1q78HnWVzkAFvAipdOrRlZGUSkvF1pIBKzlPC3b5qI/s2048/IMG_1278.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0hz8XXS7B5o3bxe-0DsiuYd8301UUCaVlKEpzeSsyFB-PdV-MOzW_Z8vuHMPmKd1CphfqFhQYn0SQzJKhrM9XizfKZD-ciYaOBd2FVhdBUDzcGCSFlIM5hklBEOfuSjTZda_hxQzJ0d4hQFkGi1q78HnWVzkAFvAipdOrRlZGUSkvF1pIBKzlPC3b5qI/w400-h300/IMG_1278.JPEG" width="400" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS9AmhAjdMtETorRuj4l6jGN1GndCB50vACrBgDRkDrSh5Ozm2pLvZwuURrvjO7WUq-LDCkpGoWr-3MEvrX_MB30LiTPb3LEWKLygeLmK44xWEnLii3YZ7TwyF5rykPWKbkxGPN-w1d0et9P-_my_70QO6v6VmV7ZhibAzM0DnTDEluDFTjiQM6-BuFZs/s2048/IMG_1281.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS9AmhAjdMtETorRuj4l6jGN1GndCB50vACrBgDRkDrSh5Ozm2pLvZwuURrvjO7WUq-LDCkpGoWr-3MEvrX_MB30LiTPb3LEWKLygeLmK44xWEnLii3YZ7TwyF5rykPWKbkxGPN-w1d0et9P-_my_70QO6v6VmV7ZhibAzM0DnTDEluDFTjiQM6-BuFZs/w400-h300/IMG_1281.JPEG" width="400" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgoHxItDF3Tudu8b7xrVV81poOp_a-4Ra51FueUYu4NmUi5wRdiiQB-UZv_2JAX8ofuvmczW9F0jTwD0_EhRHLvpZ6glOKOo6fm8-PQ_BIbNfQfX_WQbAhAp1WuLM_SiHCsNkWpyQc7mkzXTYPoq2YWvwuRC2Th5i9PfIlgOaeGpwsSrCNU1LzvPr-q4g/s2048/IMG_1283.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgoHxItDF3Tudu8b7xrVV81poOp_a-4Ra51FueUYu4NmUi5wRdiiQB-UZv_2JAX8ofuvmczW9F0jTwD0_EhRHLvpZ6glOKOo6fm8-PQ_BIbNfQfX_WQbAhAp1WuLM_SiHCsNkWpyQc7mkzXTYPoq2YWvwuRC2Th5i9PfIlgOaeGpwsSrCNU1LzvPr-q4g/w400-h300/IMG_1283.JPEG" width="400" /></a><p class="MsoBodyText">
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText">
 
 <p class="MsoBodyText" style="text-align: center;">I get such a charge out of seeing the workings of these electrical jungles! 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMiuiedya2dLQjkfUATqzVF5VdwKZwMpwG51cmGdXf7f2WW85QCrT4Lvm5Lx9mQuyjcnwdZi4fhNKnJuuDrIxoXZ_SXl7FiClxREE100QwY44Sn9nwAHtFjCv_OIobtQed3pQE6FX9S0rsHptz0UuS7xhBnABAB-OKbcr5YMcQkn0AAIs3pRwnxKig5I/s2048/IMG_1292.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMiuiedya2dLQjkfUATqzVF5VdwKZwMpwG51cmGdXf7f2WW85QCrT4Lvm5Lx9mQuyjcnwdZi4fhNKnJuuDrIxoXZ_SXl7FiClxREE100QwY44Sn9nwAHtFjCv_OIobtQed3pQE6FX9S0rsHptz0UuS7xhBnABAB-OKbcr5YMcQkn0AAIs3pRwnxKig5I/w480-h640/IMG_1292.JPEG" width="480" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="/assets/blog-images/Fontana__12_.JPEG" width="480" /></a>
 <span><!--more--></span>
 <p class="MsoBodyText">Next was a surprise. I was on my way to the next dam when
 I ended up within a block of—believe it or not—my home office! Couldn’t resist
 snapping a pic with my bike, and wouldn’t you know it? I can see my desk window
 right behind it. This photo’s already on my desktop.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtk3fxFLFPI9izR9gpHY8qW-8BQwKeNgPSZzVYB49MxAqiP_PdD3swqFOMZtJvOM1gjFI_261IPgcHzGGoOz0S0jY2M3uOJIq-pjThMzp5ky5bWuk-A4M0qwZ5N7aMQDGxAjxqjMnUM-JvNnn6zN0s72aibE3RZ0utgtgmrwnolGUiwgUmVlhZeSCLwdw/s2048/IMG_1294.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtk3fxFLFPI9izR9gpHY8qW-8BQwKeNgPSZzVYB49MxAqiP_PdD3swqFOMZtJvOM1gjFI_261IPgcHzGGoOz0S0jY2M3uOJIq-pjThMzp5ky5bWuk-A4M0qwZ5N7aMQDGxAjxqjMnUM-JvNnn6zN0s72aibE3RZ0utgtgmrwnolGUiwgUmVlhZeSCLwdw/w640-h480/IMG_1294.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
 <p class="MsoBodyText">I skipped the AI history on my office—too much potential
 for controversy and politics there. Onward to Chickamauga Dam!
 
@@ -167,7 +167,7 @@ out. I’ve driven over it countless times. It’s one of the few TVA dams you c
 drive across—Watts Bar being another. I think there might be one or two near
 Browns Ferry, but don’t quote me on that.<o:p></o:p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjttX8qJkkFEb4CGyj9fuhUArRYnyBmgHs7lqJ3sQEnCwpCA38gOpayzbMoW3Pd7Q8qukBEmlQ-QyRkuQvthv5a2W6WB7BWue_1vEJCt6HvnJxwm5qKpJRA4lGiz6aWH2VuwgFbYZYu51j5ZqQZObPY6iwPXVnhlkjEHUCqSY8jd-BHbCzBPQpsJcWcq-Y/s2048/IMG_1303.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjttX8qJkkFEb4CGyj9fuhUArRYnyBmgHs7lqJ3sQEnCwpCA38gOpayzbMoW3Pd7Q8qukBEmlQ-QyRkuQvthv5a2W6WB7BWue_1vEJCt6HvnJxwm5qKpJRA4lGiz6aWH2VuwgFbYZYu51j5ZqQZObPY6iwPXVnhlkjEHUCqSY8jd-BHbCzBPQpsJcWcq-Y/w400-h300/IMG_1303.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">I’ve watched the progress on the new lock over the years,
@@ -184,7 +184,7 @@ commerce and regional growth.</i><o:p></o:p>
 
 <p class="MsoBodyText">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxTWvbHi_5EhyphenhyphenHTFByZyOVOB6h2vokt1itfYjpZBJylZzF1ov5FeZ3ehmfoaHzZdWONQ5i3mIetK9YGfxUqpvCR3MnD00sl_fGL1T5QzV-lD7Rqmn_8V3unM1wZPsSUcw8yC0feRY5xYrB3EkxIsGDM91lPVLv_KNrmSXiWHC9kEjAFLtiZX8UzVOZ4s/s2048/IMG_1297.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxTWvbHi_5EhyphenhyphenHTFByZyOVOB6h2vokt1itfYjpZBJylZzF1ov5FeZ3ehmfoaHzZdWONQ5i3mIetK9YGfxUqpvCR3MnD00sl_fGL1T5QzV-lD7Rqmn_8V3unM1wZPsSUcw8yC0feRY5xYrB3EkxIsGDM91lPVLv_KNrmSXiWHC9kEjAFLtiZX8UzVOZ4s/w400-h300/IMG_1297.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 <i>
 </i>
 
@@ -199,8 +199,8 @@ Either way here are some great sites.
 [Site 1](https://www.lrd.usace.army.mil/Missions/Projects/Article/3812399/chickamauga-lock-replacement-project/) | [Site 2 ](https://www.tva.com/environment/recreation/locking-through)| [Site 3 ](https://www.shimmick.com/portfolio/chickamauga-lock-replacement/)| [Site 4](https://www.waterwayguide.com/lock/4-232/chickamauga-lock-dam)
 <span><!--more--></span>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Ax4EYWlg9fq5bY0QGJXyi0PfwTMe5m5pXjUYGe88eg8Nf9gswP-oAozmh3vB06MqmT6701mJYpqOJpIu-cUfm4nWFmmUHG2UVsJojp2hykJpnIEMVK5BfWVXTggNjg4Z5KgDaXlgo79MeWNM8Sy2BDJuAmcWJjgGr4p4p-sXorXhmAfNkvbh-3pnpt0/s2048/IMG_1305.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Ax4EYWlg9fq5bY0QGJXyi0PfwTMe5m5pXjUYGe88eg8Nf9gswP-oAozmh3vB06MqmT6701mJYpqOJpIu-cUfm4nWFmmUHG2UVsJojp2hykJpnIEMVK5BfWVXTggNjg4Z5KgDaXlgo79MeWNM8Sy2BDJuAmcWJjgGr4p4p-sXorXhmAfNkvbh-3pnpt0/w400-h300/IMG_1305.JPEG" width="400" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0xi8J94Mw0RqzU3v6X1coy5rPh9CT_ZMfEPc5AGQRru1cdwAzbtw-176zKwCN1ZDd1qmTLyOELHd8MHXiAY4dWzgmnN9ncjQKYiRBOEqFdBkqfaKCUwLnJYelinwLAxexv7Owlbb5ZYgm7zD0Mnz_4ShOVsUUORDR41DzVqzFJxdPtcEHU2pv6FJmJLc/s2048/IMG_1308.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0xi8J94Mw0RqzU3v6X1coy5rPh9CT_ZMfEPc5AGQRru1cdwAzbtw-176zKwCN1ZDd1qmTLyOELHd8MHXiAY4dWzgmnN9ncjQKYiRBOEqFdBkqfaKCUwLnJYelinwLAxexv7Owlbb5ZYgm7zD0Mnz_4ShOVsUUORDR41DzVqzFJxdPtcEHU2pv6FJmJLc/w300-h400/IMG_1308.JPEG" width="300" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
 <p class="MsoBodyText">
 
 <p class="MsoBodyText">Here’s what ChatGPT shared about Central Labs:<o:p></o:p>
@@ -219,7 +219,7 @@ science and innovation in utility operations.<o:p></o:p></i>
 
 <p class="MsoBodyText"><span style="mso-bidi-font-style: italic;"><o:p> </o:p></span>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6-JlBWqhSeoWSMsW_X4NfofuHrKGsT_6gZqdAhwVoqwCWAeJNCTHB6v7x5dhRfh6GI1EyP8GljDyxwJ-s87ayH-amO0RzGJBE9eN2LLWo8DmZWORvK_mEhnimd46A4URWZ_1svKiKZ7_9ulLsJqPxekfGbDHyP0qFcyF_YRH-tKs_d5bTXHD3NLfSt8/s2048/IMG_1309.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6-JlBWqhSeoWSMsW_X4NfofuHrKGsT_6gZqdAhwVoqwCWAeJNCTHB6v7x5dhRfh6GI1EyP8GljDyxwJ-s87ayH-amO0RzGJBE9eN2LLWo8DmZWORvK_mEhnimd46A4URWZ_1svKiKZ7_9ulLsJqPxekfGbDHyP0qFcyF_YRH-tKs_d5bTXHD3NLfSt8/w300-h400/IMG_1309.JPEG" width="300" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="400" src="/assets/blog-images/IMG_1268.JPEG" width="300" /></a>
 [Site 1](https://www.facebook.com/pages/TVA-Central-Lab/205389462924817) | [Site 2](https://www.tva.com/the-powerhouse/stories/frontlines-of-progress) | [Site 3](https://www.waterwayguide.com/lock/4-232/chickamauga-lock-dam)<span><!--more--></span>
 
 <p class="MsoBodyText" style="text-align: center;">Finally, I made my way to Chickamauga Dam itself. It’s as
@@ -227,18 +227,18 @@ impressive as Watts Bar, no doubt. What caught my attention was all the folks
 fishing right next to the powerhouse outlet. A lot of people do it, so clearly,
 there’s something to it. <o:p></o:p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRyM5mwh8QJBMgEjmaMOAr-cRxYjRBRaMuxOTYUoqdZ4OSMm19drQug4h-Iv8fb6yuNl8rG_Zyx5hltaZFagYzmYH_nK7k9BkaAePQtEo9_B9lA-h7FI7lvtT8dyTXMl2P_gS7399iOhYbCMQuXwTGm4tj0y2jY_YPy8awxRZXjt80tdLK7lBc3ZD8K0/s2048/IMG_1311.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRyM5mwh8QJBMgEjmaMOAr-cRxYjRBRaMuxOTYUoqdZ4OSMm19drQug4h-Iv8fb6yuNl8rG_Zyx5hltaZFagYzmYH_nK7k9BkaAePQtEo9_B9lA-h7FI7lvtT8dyTXMl2P_gS7399iOhYbCMQuXwTGm4tj0y2jY_YPy8awxRZXjt80tdLK7lBc3ZD8K0/w400-h300/IMG_1311.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIuRfdY5P0yWq2fsfg6Y-TWqWMJZUQB1BowkEZ_SwAaOzrecQ9YehLn-c9yFgFVsAkzL3ypdEKQ1k1K6VHp8eMv_8YqQeL48OZ7Z377uAkMr8rjRi9NAu6FliAVrHpo0-Eo7o3eew7LeTPsupd5JObC_Vd1QB64eHdgccqlnJF3_B1XL-BhzmXm4084nY/s2048/IMG_1318.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIuRfdY5P0yWq2fsfg6Y-TWqWMJZUQB1BowkEZ_SwAaOzrecQ9YehLn-c9yFgFVsAkzL3ypdEKQ1k1K6VHp8eMv_8YqQeL48OZ7Z377uAkMr8rjRi9NAu6FliAVrHpo0-Eo7o3eew7LeTPsupd5JObC_Vd1QB64eHdgccqlnJF3_B1XL-BhzmXm4084nY/w400-h300/IMG_1318.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhddVzf5ivSxDldQvgi6_vmq5qFcahv0V9b008VZ10eDGU6rMYG16c1GqQz3614MEbP3AVsImBQNJt-74vSm5VZDO0y9EDDex9z9TDKWZ9trGx2GncQQFtkn16G3nX_InfECod-iEBo2lAdOBrfjMBee1-_h15vfuZrvAXk1nZvDR2I-Mvezex7bZq9Boo/s2048/IMG_1322.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhddVzf5ivSxDldQvgi6_vmq5qFcahv0V9b008VZ10eDGU6rMYG16c1GqQz3614MEbP3AVsImBQNJt-74vSm5VZDO0y9EDDex9z9TDKWZ9trGx2GncQQFtkn16G3nX_InfECod-iEBo2lAdOBrfjMBee1-_h15vfuZrvAXk1nZvDR2I-Mvezex7bZq9Boo/w400-h300/IMG_1322.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixPHCFQalIuKRiNFF_WZS7bheaWtllJg7VZbcr0yBQiMAnWYEMkbWZ3HE92jOmuhlXgyYR3I4FK3Bp0my2IrI5v-xuxbSnMyRh0xIcSD8XZdPaFzmn-0Y_ioRUoSpX8h8lzFKDENIfh6gndTF7tHSHs1eG5kXE1YZOmtC6YWQzF2yfsrgAve6K38HAR2o/s2048/IMG_1331.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixPHCFQalIuKRiNFF_WZS7bheaWtllJg7VZbcr0yBQiMAnWYEMkbWZ3HE92jOmuhlXgyYR3I4FK3Bp0my2IrI5v-xuxbSnMyRh0xIcSD8XZdPaFzmn-0Y_ioRUoSpX8h8lzFKDENIfh6gndTF7tHSHs1eG5kXE1YZOmtC6YWQzF2yfsrgAve6K38HAR2o/w400-h300/IMG_1331.JPEG" width="400" /></a><p class="MsoBodyText" style="text-align: left;">The Chickamauga Dam Railroad Bridge—or the train bridge as I call it. Has a house-like structure on top, ever wonder what it is? 
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a><p class="MsoBodyText" style="text-align: left;">The Chickamauga Dam Railroad Bridge—or the train bridge as I call it. Has a house-like structure on top, ever wonder what it is? 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAifZzXYMCDMhnXRkCtz_WE2iEJL9Xkt89Vq1z_gI1CBU5WiEgMJ2Fd9XhwFU2OZpMWbJy6HOCX1M-p2_AvODAoU_olRrIRq0wNk_4jcg_Mjmv3pft8eoMo6zLyPy9iPHqbMD3ML3Q9Yyy9BcUguxPx5HveWkyRemWU4t2mcqZMAj3P2A7xS5nzKENLZw/s2048/IMG_1326.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAifZzXYMCDMhnXRkCtz_WE2iEJL9Xkt89Vq1z_gI1CBU5WiEgMJ2Fd9XhwFU2OZpMWbJy6HOCX1M-p2_AvODAoU_olRrIRq0wNk_4jcg_Mjmv3pft8eoMo6zLyPy9iPHqbMD3ML3Q9Yyy9BcUguxPx5HveWkyRemWU4t2mcqZMAj3P2A7xS5nzKENLZw/w400-h300/IMG_1326.JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 
 That covers the machinery that lifts the span when taller vessels come through. But the bridge.. It’s a sight when a train crosses, and even better when your bike’s in the foreground. They call this the Riverwalk at the Dam and it is an amazing place to visit, here it also brought me one of my all-time favorite bike photos. I literally stopped in the road, kickstand down, phone out, and laid right on the ground to get the shot. Totally worth it. I might have looked ridiculous, but hey, Gen X—posing awkwardly since 1974.
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEmkeNCjzEYPga_ICeOs25HDFkZMv-Ua6ytGxiY5wlGitYV6O5qcStlpXd3I3TKmhskbvLEZWVlKdIMfrOBS3WCJG61UpB9_HtyhASqCVUaaWwbKfncG0ukuZXbyYC3lQwwzd5BgWrD8elHcoOkERQnRpDBtBZjhLU1zUXD5yQUKj2VSC5VXoVB2mvwE/s2048/IMG_1339.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEmkeNCjzEYPga_ICeOs25HDFkZMv-Ua6ytGxiY5wlGitYV6O5qcStlpXd3I3TKmhskbvLEZWVlKdIMfrOBS3WCJG61UpB9_HtyhASqCVUaaWwbKfncG0ukuZXbyYC3lQwwzd5BgWrD8elHcoOkERQnRpDBtBZjhLU1zUXD5yQUKj2VSC5VXoVB2mvwE/w640-h480/IMG_1339.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
 <p class="MsoBodyText">There is so much going on in the background, I plan to do things with this image in the near future. Wall art, puzzle or something.
 
 <p class="MsoBodyText">Here’s ChatGPT’s insight on the bridge:<o:p></o:p>
@@ -267,7 +267,7 @@ rubber side down, and never miss a chance for that perfect bike pic.<o:p></o:p>
 
 Another something new at the end. A comprehensive look at the ride in full! Wow eight and a half hours total!
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZuRRAMJ3fX91G3eG95iCSPkSykxpZc6P88I7NSCUDRamZTli-0SgTFJBIXcrddG4F8TkuqYxkko5CQqAFqShRqn36dHG0dBhqp9gbjXZIq2790EjJxuYQfNX-hZnPJq3arz_XWY4_CJsYLzAOZTWlXdnjzjP7k7tM4Q8rCj9psUFVI1DC7TPsSNGyLQ/s1227/7.20.25.JPG"><img border="0" data-original-height="789" data-original-width="1227" height="412" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZuRRAMJ3fX91G3eG95iCSPkSykxpZc6P88I7NSCUDRamZTli-0SgTFJBIXcrddG4F8TkuqYxkko5CQqAFqShRqn36dHG0dBhqp9gbjXZIq2790EjJxuYQfNX-hZnPJq3arz_XWY4_CJsYLzAOZTWlXdnjzjP7k7tM4Q8rCj9psUFVI1DC7TPsSNGyLQ/w640-h412/7.20.25.JPG" width="640" /></a>
+<a href="/assets/blog-images/s1227-7.20.25.JPG"><img border="0" data-original-height="789" data-original-width="1227" height="412" src="/assets/blog-images/w640-h41-7.20.25.JPG" width="640" /></a>
 <span><!--more--></span>
 <iframe allowfullscreen="" class="BLOG_video_class" height="355" src="https://www.youtube.com/embed/o5nITVG1DCs" width="429" youtube-src-id="o5nITVG1DCs"></iframe>
 

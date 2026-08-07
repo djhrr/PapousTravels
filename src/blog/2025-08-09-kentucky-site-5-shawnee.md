@@ -9,14 +9,14 @@ layout: post
 
 <p style="text-align: center;"> Shawnee
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgklasBeQOJ2NEsWbs2LocvI3zFIFF68r7ZtUPC48ra3WQbwkY-VD9TvhqtUbpPypqwy8lEWkKSeXrlMQogKH4AYuwednzvryk6oW6nCifABuU8zs8f_9mywXtGLYmRojxNjN0rSEjfz3HNJ9Gx6mFCGgnDtIBAXbsRMq02zNyj-U4hQH_6VzkSRsQPEZw/s1536/KY_6_Shawnee%20(15).png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgklasBeQOJ2NEsWbs2LocvI3zFIFF68r7ZtUPC48ra3WQbwkY-VD9TvhqtUbpPypqwy8lEWkKSeXrlMQogKH4AYuwednzvryk6oW6nCifABuU8zs8f_9mywXtGLYmRojxNjN0rSEjfz3HNJ9Gx6mFCGgnDtIBAXbsRMq02zNyj-U4hQH_6VzkSRsQPEZw/w266-h400/KY_6_Shawnee%20(15).png" width="266" /></a>
+<a href="/assets/blog-images/Copilot_20250903_172333.png_" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="400" src="/assets/blog-images/KY_6_Shawnee__15_.png" width="266" /></a>
 <p style="text-align: center;">One of the last 4 remaining active Fossil plants. I'm glad to get a chance to visit them before they are all gone.  At one time it was considered the 3rd largest coal power plant in the world.
 
 <p style="text-align: center;">It's history is only eclipsed by the sheer size of the stacks.
 
 <p style="text-align: center;"> 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdkgIGgf1l1drAak6JAakgt8bZR9OsTWZoc9EnlzFsSEmrw3cmVPUSsg8-VnlWNZGJEeJanVo7_dFESxhIezq9xsVzqtdkZ3c_U3_JfPca5GoxT1W7zFopNKjIBfk3nq-VXdVB5C_Zo6liU4DqJ2iYmDlVKTmNNOl00Cb6yiY1V_z_sYTcd_1vSiD1t-o/s2048/KY_6_Shawnee%20(5).JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdkgIGgf1l1drAak6JAakgt8bZR9OsTWZoc9EnlzFsSEmrw3cmVPUSsg8-VnlWNZGJEeJanVo7_dFESxhIezq9xsVzqtdkZ3c_U3_JfPca5GoxT1W7zFopNKjIBfk3nq-VXdVB5C_Zo6liU4DqJ2iYmDlVKTmNNOl00Cb6yiY1V_z_sYTcd_1vSiD1t-o/w400-h300/KY_6_Shawnee%20(5).JPEG" width="400" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="300" src="/assets/blog-images/IMG_1278.JPEG" width="400" /></a>
 As the day was soon ending it was time to say goodbye to a brief stay at Shawnee.. 
 Here you go! More on Shawnee! 
 

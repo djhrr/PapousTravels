@@ -7,11 +7,11 @@ updated: 2025-12-06T06:19:04.754Z
 layout: post
 ---
 
-<span style="text-align: left;">I claim this town in the name of me!</span><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9AdkzsUWoOKyP0KiI4n_V2B8topjDgUEpDvl2-m3uP8yc6cI-rtimr_1luNlLKZiJNPuWNIAXIIqwi729NkU97qo6kZHlM-7KfiGUwtbbFxsrE5BDva_rVFvQjVH8NEW5rNduc8uC9S22kdn8Dumf7bjQqySgEanLGfnDbw7lxYTGAv50ZAYkrkJ-qlU/s1184/Gemini_Generated_Image_o4ut4vo4ut4vo4ut.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="864" data-original-width="1184" height="468" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9AdkzsUWoOKyP0KiI4n_V2B8topjDgUEpDvl2-m3uP8yc6cI-rtimr_1luNlLKZiJNPuWNIAXIIqwi729NkU97qo6kZHlM-7KfiGUwtbbFxsrE5BDva_rVFvQjVH8NEW5rNduc8uC9S22kdn8Dumf7bjQqySgEanLGfnDbw7lxYTGAv50ZAYkrkJ-qlU/w640-h468/Gemini_Generated_Image_o4ut4vo4ut4vo4ut.png" width="640" /></a>
+<span style="text-align: left;">I claim this town in the name of me!</span><a href="/assets/blog-images/s1184-Gemini_Generated_Image_o4ut4vo4ut4vo4ut.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="864" data-original-width="1184" height="468" src="/assets/blog-images/w640-h46-Gemini_Generated_Image_o4ut4vo4ut4vo4ut.png" width="640" /></a>
 
 <p class="MsoNormal">Riding to the next site I happened upon a town I adopted immediately. Rogersville Tennessee! 
 
-<p class="MsoNormal"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1WstC7DETm3R0-UXHmwHxbc__Q8xIsEUdTvpcAge8DvQwKwTaf8gmHcsf8BQ9viaRcZqQAAXsRLsEa3EygKdoVWdtCuGescDfmISw_4dLhqXaX_WiQp5OhYX4gN8YQf3BuhynAM6j2FG2YuYPlYTWMzFJgp7Z9R-3rtyW7UT3OcZ4juAMbNwKb0Ggsw/s2048/IMG_1875.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1WstC7DETm3R0-UXHmwHxbc__Q8xIsEUdTvpcAge8DvQwKwTaf8gmHcsf8BQ9viaRcZqQAAXsRLsEa3EygKdoVWdtCuGescDfmISw_4dLhqXaX_WiQp5OhYX4gN8YQf3BuhynAM6j2FG2YuYPlYTWMzFJgp7Z9R-3rtyW7UT3OcZ4juAMbNwKb0Ggsw/w640-h480/IMG_1875.JPEG" width="640" /></a>
+<p class="MsoNormal"><a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
 
 <p class="MsoNormal">Now I wanted to spend more time here but I
 had a number of sites to yet see so I had to see my fire, my police department,
@@ -20,14 +20,14 @@ my park, and my town hall. <span style="font-family: Wingdings; mso-ascii-font-f
 <p class="MsoNormal">
 <span style="mso-spacerun: yes;"></span>
 
-<span style="mso-spacerun: yes;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibXtObPW9NvPi8l-0eSDGLRpHou1q1OgXWMojdUiqRI28qC073ZRjnJgjPH8hD1ejw7ydWC3k1zAj8UODPN8_qVkhvIpxLNlO2gqlPim4bck6980fKdIRCEMNBCHCcU465oqUmsdWprQ-J97V6hYblAuJtPrJ62iD8eEuRchyTYGL5KhntPFogxPOSDjs/s2048/IMG_1877.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibXtObPW9NvPi8l-0eSDGLRpHou1q1OgXWMojdUiqRI28qC073ZRjnJgjPH8hD1ejw7ydWC3k1zAj8UODPN8_qVkhvIpxLNlO2gqlPim4bck6980fKdIRCEMNBCHCcU465oqUmsdWprQ-J97V6hYblAuJtPrJ62iD8eEuRchyTYGL5KhntPFogxPOSDjs/w200-h150/IMG_1877.JPEG" width="200" /><span>    </span></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3G5yvAE59H-t8bpLcuvw3NcDof2GYBe7L8t_jG7UuxUoeiSSNkkFdQ9lMJdu-Cyx4nXxOazQkTn6WdTE0ZA4NdGWDBH0kBP6gqCv5cYN1IVZo1RfGbl0UQOIBaw8Th-loZ1HMQMooJE74G0xHVIHlaNivVpDbtx9o84DhJ89VbwvcZCy01Uub7lsn2FA/s2048/IMG_1874.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span>    </span><span>    </span><span>    </span><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3G5yvAE59H-t8bpLcuvw3NcDof2GYBe7L8t_jG7UuxUoeiSSNkkFdQ9lMJdu-Cyx4nXxOazQkTn6WdTE0ZA4NdGWDBH0kBP6gqCv5cYN1IVZo1RfGbl0UQOIBaw8Th-loZ1HMQMooJE74G0xHVIHlaNivVpDbtx9o84DhJ89VbwvcZCy01Uub7lsn2FA/w200-h150/IMG_1874.JPEG" width="200" /></a>
+<span style="mso-spacerun: yes;"><a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="/assets/blog-images/KY_3_Paradise__13_.JPEG" width="200" /><span>    </span></a><a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span>    </span><span>    </span><span>    </span><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="/assets/blog-images/KY_3_Paradise__13_.JPEG" width="200" /></a>
 
 </span>
 
 <p class="MsoNormal">
 
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkHsk-vzsIwnG8_CqbFvWReodmPgRBntvOfbfnUMY9vIOIXF2OoBj6rV0iveY_3MOCkcidzb3NwGWlZu1Ut6XooMswvECdytHGyhwpf75E0UpHQEg-e9PrtMYf2AiIYV1OuE9Tn2oa_ek7IhPAXCPoap7y-aNVxcig2ts7bUqR0weZ_eH3Wa9vzS_p6Y/s2048/IMG_1874.JPEG)Ok enough of that rubbish. On to the reason I am here. Sites! 
+](/assets/blog-images/GreatFallsDam0__8_.JPEG enough of that rubbish. On to the reason I am here. Sites! 
 
 John Sevier. I have two
 actually, three different perspectives of John Sevier. On one hand when riding
@@ -36,14 +36,14 @@ up to it I had no Idea it used to be a coal plant. I actually found an image of 
 It is now a natural gas
 powered plant. The coal vs gas debate can be had at another time, I simply found that back story interesting. 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVNNqPB4QMTmNS1QTZTvyGBikvibkarNRVczMee_M-PzG6-mmBtXdHa9qWGOp-IHmWlD_iernwOwtTRVoYo528FneAeEhYCqLGePG1F4eqsEFEjT3vj7B_XxCMwXCwpwsCgR7Y4vlXxMXMSG_L2VgGxYqq4pDygK85SgREEv2QHDlGWoCrUcgnrCdnjNw/s1536/Sign.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1057" data-original-width="1536" height="440" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVNNqPB4QMTmNS1QTZTvyGBikvibkarNRVczMee_M-PzG6-mmBtXdHa9qWGOp-IHmWlD_iernwOwtTRVoYo528FneAeEhYCqLGePG1F4eqsEFEjT3vj7B_XxCMwXCwpwsCgR7Y4vlXxMXMSG_L2VgGxYqq4pDygK85SgREEv2QHDlGWoCrUcgnrCdnjNw/w640-h440/Sign.JPEG" width="640" /></a>
+<a href="/assets/blog-images/Copilot_20250903_172333.png_" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1057" data-original-width="1536" height="440" src="/assets/blog-images/w640-h44-Sign.JPEG" width="640" /></a>
 <p class="MsoNormal">The scenery soundings were incredible
 and then the ride into the plant was quite impressive with the stainless steel
 smoke stacks.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVATMasufPJSae3_LJhwod_OLtvqpoPgqwQF9pyWgt64IRevGhp_7VT0huFuMymUe4qRXp2aJkhThOrYmPtM1jwQ33VQSp64KjWvxcva-WXWiprrbYvL-U10FQOsfSABdnYwqFiqWzteibplP45HJtUNf49BLuRlUvCZjfR0HLnk1FQEjnlZfuC_OrCkQ/s2048/IMG_1867.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVATMasufPJSae3_LJhwod_OLtvqpoPgqwQF9pyWgt64IRevGhp_7VT0huFuMymUe4qRXp2aJkhThOrYmPtM1jwQ33VQSp64KjWvxcva-WXWiprrbYvL-U10FQOsfSABdnYwqFiqWzteibplP45HJtUNf49BLuRlUvCZjfR0HLnk1FQEjnlZfuC_OrCkQ/w640-h480/IMG_1867.JPEG" width="640" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5v5VtHhmCZwWkn7mwO5dE4TupukgJ7aC5wBhG04pMmBXdGILdMO0G5Do4iR_HAIl8Wdn6YT7VcMtodrqgo5x_FUwqY04auqPys7EpEpm1fXUw-vx78-vQtuUazHiS9DluoYf6uqW1ReYqeLh9CsYRvuRPfr72hwECH7lFAVm2N5qldV_skS624UX9YrI/s2048/IMG_1866.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5v5VtHhmCZwWkn7mwO5dE4TupukgJ7aC5wBhG04pMmBXdGILdMO0G5Do4iR_HAIl8Wdn6YT7VcMtodrqgo5x_FUwqY04auqPys7EpEpm1fXUw-vx78-vQtuUazHiS9DluoYf6uqW1ReYqeLh9CsYRvuRPfr72hwECH7lFAVm2N5qldV_skS624UX9YrI/w640-h480/IMG_1866.JPEG" width="640" /></a>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJFjrAY9FXEIao3n7Gd_OjTqT8GJqlgN8Rngw0s9rNqa3dGMwXbx9d4h8AmnIZkLedrZgcSCwQEKJeAdUQ8tanCG0jErl7SsXmigFnarSx1PMpzlmWszppVllxi2ldtnN1_47CX6gde34FJV3vDHv-GKLrlkU38XWcy7Su-D7yrpjBqu6PHz0RjRGc1Bg/s2048/IMG_1872.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJFjrAY9FXEIao3n7Gd_OjTqT8GJqlgN8Rngw0s9rNqa3dGMwXbx9d4h8AmnIZkLedrZgcSCwQEKJeAdUQ8tanCG0jErl7SsXmigFnarSx1PMpzlmWszppVllxi2ldtnN1_47CX6gde34FJV3vDHv-GKLrlkU38XWcy7Su-D7yrpjBqu6PHz0RjRGc1Bg/w640-h480/IMG_1872.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
 
 <p class="MsoNormal">A little behind the scenes honesty. I had read up on John
 Sevier and had learned it had a small weir dam associated with it when
@@ -51,7 +51,7 @@ it was a coal plant. I scoped out where it was and was determined to get as
 close as I could. And while I was closer than I am now writing this. I did not
 get as close as I would have liked. But I tried!
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBIBAxLQy_vCwCgY9uqsfM1_ic1VamTpw5C2AxqYPoRLrCYRrw6hth8xlcVAMi9SSkg6Pu01gtGzglsI2n9HhtqsfSri5aVtkfr2UG0vQWEnYxEcofmRsxH_YclKhbDbIChhzxnjaQN98GkYcZOhbkK-xLpviEEJhcE3-3Lk15P1v8I7sKdtedAm2Atc/s2048/IMG_1863.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBIBAxLQy_vCwCgY9uqsfM1_ic1VamTpw5C2AxqYPoRLrCYRrw6hth8xlcVAMi9SSkg6Pu01gtGzglsI2n9HhtqsfSri5aVtkfr2UG0vQWEnYxEcofmRsxH_YclKhbDbIChhzxnjaQN98GkYcZOhbkK-xLpviEEJhcE3-3Lk15P1v8I7sKdtedAm2Atc/w640-h480/IMG_1863.JPEG" width="640" /></a>
+<a href="/assets/blog-images/GreatFallsDam0__8_.JPEG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" height="480" src="/assets/blog-images/IMG_1863.JPEG" width="640" /></a>
  <o:p></o:p>
 
 <p class="MsoNormal">
