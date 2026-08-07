@@ -25,9 +25,9 @@
     <div class="nav-inner">
       <a href="/">Home</a>
       <a href="/blog/">Blog</a>
-      <a href="#">Trips</a>
+      <a href="#" onclick="comingSoon(event)">Trips</a>
       <a href="https://photos.app.goo.gl/ARyap15E2KuczHdk7" target="_blank" rel="noopener">Gallery</a>
-      <a href="#">Contact</a>
+      <a href="#" onclick="comingSoon(event)">Contact</a>
     </div>
   </nav>
 
@@ -40,6 +40,15 @@
   </main>
 
   <div class="footer-spacer"></div>
-
+  <div id="coming-soon-toast" style="display:none;position:fixed;bottom:32px;left:50%;transform:translateX(-50%);background:#1a3a5c;color:#fff;padding:10px 24px;border-radius:20px;font-family:Poppins,sans-serif;font-size:.95rem;box-shadow:0 4px 12px rgba(0,0,0,.2);z-index:9999">Coming soon</div>
+  <script>
+    function comingSoon(e) {
+      e.preventDefault();
+      const toast = document.getElementById('coming-soon-toast');
+      toast.style.display = 'block';
+      clearTimeout(toast._t);
+      toast._t = setTimeout(() => toast.style.display = 'none', 2000);
+    }
+  </script>
 </body>
 </html>
