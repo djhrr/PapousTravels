@@ -1,8 +1,7 @@
 module.exports = function(eleventyConfig) {
   
-  // Copy static assets
+  // Copy static assets (but NOT index.html since we use the static version)
   eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy("*.html");
   eleventyConfig.addPassthroughCopy("CNAME");
   
   // Create a collection for blog posts
