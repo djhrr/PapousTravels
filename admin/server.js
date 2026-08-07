@@ -1,29 +1,50 @@
 const express = require('express');
 const session = require('express-session');
 const multer  = require('multer');
-const path    = require('path');
-const fs      = require('fs');
-const { execSync } = require('child_process');
 
-const app  = express();
-const ROOT = path.join(__dirname, '..');
+const app = express();
+const PORT          = process.env.PORT || 3000;
+const GITHUB_TOKEN  = process.env.GITHUB_TOKEN;
+const GITHUB_OWNER  = process.env.GITHUB_OWNER  || 'djhrr';
+const GITHUB_REPO   = process.env.GITHUB_REPO   || 'papoustravels';
+const ADMIN_USER    = process.env.ADMIN_USER     || 'admin';
+const ADMIN_PASS    = process.env.ADMIN_PASS     || 'password';
 
-// Image uploads go straight into assets/blog-images
-const storage = multer.diskStorage({
-  destination: path.join(ROOT, 'assets', 'blog-images'),
-  filename: (req, file, cb) => {
-    const unique = Date.now() + '-' + file.originalname.replace(/\s+/g, '_');
-    cb(null, unique);
-  }
-});
-const upload = multer({ storage });
+// Images held in memory until committed to GitHub
+const upload = multer({ storage: multer.memoryStorage() });
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(session({ secret: 'papou-admin', resave: false, saveUninitialized: false }));
+app.use(session({ secret: process.env.SESSION_SECRET || 'papou-admin-secret', resave: false, saveUninitialized: false }));
 
-// Serve uploaded images so preview works
-app.use('/assets', express.static(path.join(ROOT, 'assets')));
+/* ── GitHub API helpers ──────────────────────────────── */
+async function githubPut(repoPath, content, message) {
+  // content must be a Buffer or string
+  const b64 = Buffer.isBuffer(content)
+    ? content.toString('base64')
+    : Buffer.from(content, 'utf8').toString('base64');
+
+  // Check if file exists (need sha to update)
+  let sha;
+  const checkRes = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${repoPath}`, {
+    headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' }
+  });
+  if (checkRes.ok) {
+    const data = await checkRes.json();
+    sha = data.sha;
+  }
+
+  const body = { message, content: b64, branch: 'main' };
+  if (sha) body.sha = sha;
+
+  const res = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${repoPath}`, {
+    method: 'PUT',
+    headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) throw new Error(`GitHub API error: ${res.status} ${await res.text()}`);
+  return res.json();
+}
 
 /* ── helpers ─────────────────────────────────────────── */
 function slugify(title) {
@@ -42,7 +63,7 @@ function requireLogin(req, res, next) {
 /* ── login ───────────────────────────────────────────── */
 app.get('/login', (req, res) => res.send(loginPage()));
 app.post('/login', (req, res) => {
-  if (req.body.username === 'admin' && req.body.password === 'password') {
+  if (req.body.username === ADMIN_USER && req.body.password === ADMIN_PASS) {
     req.session.loggedIn = true;
     res.redirect('/');
   } else {
@@ -52,19 +73,28 @@ app.post('/login', (req, res) => {
 app.get('/logout', (req, res) => { req.session.destroy(); res.redirect('/login'); });
 
 /* ── image upload endpoint ───────────────────────────── */
-app.post('/upload-image', requireLogin, upload.single('image'), (req, res) => {
-  res.json({ path: '/assets/blog-images/' + req.file.filename });
+app.post('/upload-image', requireLogin, upload.single('image'), async (req, res) => {
+  try {
+    const filename = Date.now() + '-' + req.file.originalname.replace(/\s+/g, '_');
+    const repoPath = `assets/blog-images/${filename}`;
+    await githubPut(repoPath, req.file.buffer, `Upload image: ${filename}`);
+    // Return the public URL via jsDelivr CDN (available immediately after commit)
+    const rawUrl = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/main/${repoPath}`;
+    res.json({ path: rawUrl, repoPath });
+  } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
 });
 
 /* ── main editor ─────────────────────────────────────── */
 app.get('/', requireLogin, (req, res) => res.send(editorPage()));
 
 /* ── save post ───────────────────────────────────────── */
-app.post('/save', requireLogin, (req, res) => {
+app.post('/save', requireLogin, async (req, res) => {
   const { title, date, blocks } = req.body;
   const parsedBlocks = JSON.parse(blocks);
   const slug = `${date}-${slugify(title)}`;
-  const filename = path.join(ROOT, 'src', 'blog', `${slug}.md`);
+  const repoPath = `src/blog/${slug}.md`;
 
   let md = `---\ntitle: "${title.replace(/"/g, '\\"')}"\ndate: ${date}\nlayout: post\n---\n\n`;
   for (const block of parsedBlocks) {
@@ -75,13 +105,11 @@ app.post('/save', requireLogin, (req, res) => {
     }
   }
 
-  fs.writeFileSync(filename, md, 'utf8');
-
   try {
-    execSync(`git -C "${ROOT}" add -A && git -C "${ROOT}" commit -m "New post: ${title}" && git -C "${ROOT}" push`, { stdio: 'pipe' });
+    await githubPut(repoPath, md, `New post: ${title}`);
     res.send(successPage(title, slug));
   } catch (e) {
-    res.send(successPage(title, slug, 'Post saved locally but Git push failed: ' + e.message));
+    res.send(errorPage(e.message));
   }
 });
 
@@ -262,4 +290,8 @@ function successPage(title, slug, warn = '') {
 </div>`);
 }
 
-app.listen(3000, () => console.log('\n  Admin running at http://localhost:3000\n'));
+function errorPage(msg) {
+  return layout(`<div class="card"><h2 style="color:#c0392b">❌ Error</h2><p>${msg}</p><a href="/" class="btn btn-primary" style="margin-top:12px;display:inline-block">← Back</a></div>`);
+}
+
+app.listen(PORT, () => console.log(`\n  Admin running at http://localhost:${PORT}\n`));
