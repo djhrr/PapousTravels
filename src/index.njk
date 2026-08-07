@@ -5,27 +5,25 @@ permalink: /index.html
 ---
 
 <section class="main-col">
-  <div class="features">
-    <article class="card">
-      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
-      <div class="body">
-        <h3>Travel Stories & Adventures</h3>
-        <p>Follow along on motorcycle journeys, moto camping expeditions, and visits to power generation facilities across the Southeast.</p>
-      </div>
-    </article>
-
-    <article class="card">
-      <div class="thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
-      <div class="body">
-        <h3>Gear Reviews & Tips</h3>
-        <p>Practical advice and reviews for motorcycle riders, campers, and travelers looking to make the most of their adventures.</p>
-      </div>
-    </article>
+  <div class="featured-posts">
+    {% for post in collections.blog | slice(0, 2) %}
+      <article class="featured-card">
+        <a href="{{ post.url }}" class="featured-image-link">
+          <div class="featured-thumb" style="background-image:url('/assets/New-Papou-Logo.png');background-size:cover;background-position:center"></div>
+        </a>
+        <div class="featured-body">
+          <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+          <p class="post-date">{{ post.data.date | readableDate }}</p>
+          <p class="featured-excerpt">{{ post.content | striptags | slice(0, 300) }}...</p>
+          <a href="{{ post.url }}" class="read-more">Read full post →</a>
+        </div>
+      </article>
+    {% endfor %}
   </div>
 
-  <div class="article-list" style="margin-top:26px">
-    <h3>Latest Posts</h3>
-    {% for post in collections.blog | slice(0, 5) %}
+  <div class="article-list" style="margin-top:40px">
+    <h3>More Recent Posts</h3>
+    {% for post in collections.blog | slice(2, 7) %}
       <div class="article-item">
         <div class="meta">
           <a href="{{ post.url }}">
